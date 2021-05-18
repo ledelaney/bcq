@@ -1,0 +1,14 @@
+--- 
+title: "BIOS 196 Biology Colloquium"
+author: ""
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+github-repo: ledelaney/bcq
+description: "Website for all course materials related to Biology Colloquium, Fall 2021."
+---
+
+# Welcome to Biology Colloquium!
+
+This website contains the most up-to-date information on our various course activities. Student leaders will be setting up GroupMes for their various sections for more specific announcements ([download GroupMe here](www.link.com)).

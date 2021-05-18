@@ -1,0 +1,159 @@
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%PANDOC SPECIFIC SHIT, TAKEN FROM ANOTHER TEMPLATE...
+
+\documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$babel-lang$,$endif$$if(papersize)$$papersize$paper,$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
+
+%Deal with margins and other geometry stuff
+\usepackage[$if(geometry_opts)$$geometry_opts$,$endif$]{geometry}
+\usepackage{fontspec}
+\setmainfont{MinionPro-Regular.otf}[
+Path = /Library/Fonts/minion-pro-cufonfonts/,
+BoldFont = MinionPro-Bold.otf,
+ItalicFont = MinionPro-It.otf,
+BoldItalicFont  = MinionPro-BoldIt.otf]
+
+% Need to include this for refs with Pandoc
+$if(csl-refs)$
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newenvironment{cslreferences}%
+{$if(csl-hanging-indent)$\setlength{\parindent}{0pt}%
+\everypar{\setlength{\hangindent}{\cslhangindent}}\ignorespaces$endif$}%
+{\par}
+$endif$
+
+%Double-spacing or whatever...
+$if(linestretch)$
+\usepackage{setspace}
+\setstretch{$linestretch$}
+$endif$
+
+%Some of this is math package stuff, but honestly i don't really get
+%what most of it is doing
+\usepackage{amssymb,amsmath}
+\usepackage{halloweenmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\usepackage{enumitem}
+\usepackage{multicol}
+
+
+%Numbered section spacing
+$if(numbersections)$
+\setcounter{secnumdepth}{2}
+$else$
+\setcounter{secnumdepth}{0}
+$endif$
+
+%For LIST spacing
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setlist[itemize]{labelsep=1em, leftmargin=*}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LUCY'S DOCUMENT PREAMBLE AND PACKAGES
+
+% no widows or orphans
+\widowpenalty10000
+\clubpenalty10000
+
+\usepackage{pdflscape}
+\usepackage{pdfpages}
+\usepackage{xcolor}
+\definecolor{light-gray}{gray}{0.95}
+
+
+\definecolor{fa2016}{HTML}{F8766D}
+\definecolor{sp2017}{HTML}{DB8E00}
+\definecolor{fa2017}{HTML}{AEA200}
+\definecolor{sp2018}{HTML}{64B200}
+\definecolor{su2018}{HTML}{00BD5C}
+\definecolor{fa2018}{HTML}{00C1A7}
+\definecolor{sp2019}{HTML}{00BADE}
+\definecolor{su2019}{HTML}{00A6FF}
+\definecolor{fa2019}{HTML}{B385FF}
+\definecolor{sp2020}{HTML}{EF67EB}
+\definecolor{su2020}{HTML}{FF63B6}
+\definecolor{freakishgreen}{HTML}{8332a8}
+
+\usepackage{tcolorbox}
+\newtcolorbox{blackbox}{
+  colback=light-gray,
+  colframe=black,
+  coltext=black,
+  boxsep=2pt,
+  arc=4pt}
+
+%\usepackage[round]{natbib}
+\usepackage[natbibapa]{apacite} 
+\usepackage[hyphens]{url}
+
+%Set paragraph indent and between paragraph spacing
+\setlength\parindent{0pt}
+\setlength{\parskip}{4.5pt}
+
+
+%\usepackage[left]{lineno}
+%\linenumbers
+\usepackage{lastpage}
+
+%Deal with titles and make them less stupid and ugly
+\usepackage{titlesec}
+\titleformat{\section}[block]{\bfseries\sc\filcenter}{}{1em}{}
+%\titleformat{\section}[block]{\Large\bfseries\filcenter}{}{1em}{}
+\titleformat{\subsection}[hang]{\bfseries}{}{1em}{}
+\setcounter{secnumdepth}{0}
+
+\usepackage[hyphens]{url}
+
+
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=violet,
+    filecolor=cyan,      
+    urlcolor=violet,
+    citecolor = black
+}
+
+
+%Need all these for graphics and tables
+\usepackage{subfig}
+\usepackage{graphicx}
+\usepackage{blindtext}
+\usepackage{array}
+\usepackage{wrapfig}
+\usepackage{wallpaper}
+
+
+\usepackage{float}
+%\floatplacement{table}{p}
+%\restylefloat{table}
+%\newfloat{type}{placement}
+
+%Header and footer junk
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.4pt}
+\fancyhead[C]{}{}
+\fancyhead[L]{\textsc{$semester$}}
+\fancyhead[R]{\textit{$title$}}
+\fancyfoot[L]{\tiny{\textit{Version date: \today}}}
+    \fancyfoot[R]{\thepage\ of \pageref{LastPage}}
+\fancyfoot[C]{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% START OF THE DOCUMENT BODY
+\begin{document}
+
+\begin{center}
+  \textsc{\large{$title$}}
+  \end{center}
+
+%%%%%%%%%%%%%% DOCUMENT BODY
+
+$body$
+
+
+\end{document}
