@@ -1,0 +1,213 @@
+# Assignments
+
+**You will have an assignment to turn in each week.** These assignments will be due at 11:59pm the day before class. If your section meets on Wednesday, that's 11:59pm on Tuesday. If your section meets on Thursday, that's 11:59pm on Wednesday. We hate to pull the "Strict Sally" card, but we truly believe that getting the most out of BCQ requires a tiiiiiny bit of reflection and work. 
+
+Please make sure to read through these instructions and do your very best to follow them. We want to get to finals like:
+
+<div style="width:100%;height:0;padding-bottom:28%;position:relative;"><iframe src="https://giphy.com/embed/aM4g5rYnYbhir40K2G" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/yougetana-aM4g5rYnYbhir40K2G">via GIPHY</a></p>
+
+## How do assignments work?
+
+This is a general overview, but see the sections below for more details.
+
+1. Download the homework template for that week's assignment. <br> <i class="fas fa-hand-point-right"></i> Strict Sally says, Please don't change the font size or margins in your template!
+2. Complete the assignment.
+3. Email the assignment to the [Box link](#submitting-assignments) for your student leader before 11:59pm the day it is due.
+4. Once graded, your student leader will share you on the Box document so you can see their comments and your grade.
+5. All grades will be updated weekly in Blackboard.
+
+### Submitting assignments
+
+Email your assignment to your student leader's Box folder. 
+
+<i class="fas fa-hand-point-right"></i> Strict Sally says, You must email your assignment on-time to the appropriate Box folder for full credit!
+
+<i class="fas fa-hand-point-right"></i> Strict Sally also says, **Submit student leader evaluations and final reflection papers to Lucy.**  
+
+<table class="table" style="max-width:900px;margin-left:auto;margin-right:auto">
+  <tr>
+    <th>Wednesday Student Leaders</th>
+    <th>Thursday Student Leaders</th>
+  </tr>
+  
+  <tr>
+  <td>[<i class="far fa-envelope"></i> Submit to WSL1](mailto:boxemail@box.com) \ \ `boxemail@box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to TSL1](mailto:boxemail@box.com)\ \ `boxemail@box.com`</td>
+  </tr>
+  
+  <tr>
+  <td>[<i class="far fa-envelope"></i> Submit to WSL2](mailto:boxemail@box.com) \ \ `boxemail@box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to TSL2](mailto:boxemail@box.com)\ \ `boxemail@box.com`</td>
+  </tr>
+  
+  <tr>
+  <td>[<i class="far fa-envelope"></i> Submit to WSL3](mailto:boxemail@box.com) \ \ `boxemail@box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to TSL3](mailto:boxemail@box.com)\ \ `boxemail@box.com`</td>
+  </tr>
+  
+  <tr>
+  <td>[<i class="far fa-envelope"></i> Submit to WSL4](mailto:boxemail@box.com) \ \ `boxemail@box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to TSL4](mailto:boxemail@box.com)\ \ `boxemail@box.com`</td>
+  </tr>
+
+  <tr>
+  <td>**for student leader evals and final papers** <i class="fas fa-arrow-right"></i></td>
+  <td>[<i class="far fa-envelope"></i> **Submit to Lucy**](mailto:boxemail@box.com)\ \ `boxemail@box.com`</td>
+  </tr>
+  
+</table>
+
+
+## What is my assignment this week?
+
+Click the <i class="fas fa-link"></i> symbol for more information on completing your assignment. Click the <i class="fas fa-file-download"></i> symbol to find your student leader's Box email for submission. If you are in the Wednesday section, assignments are due 11:59p Tuesday of that week. If you are in the Thursday section, they are due 11:59p on Wednesday.
+
+<table class="table" style="max-width:900px;margin-left:auto;margin-right:auto">
+  <tr>
+    <th>Week</th>
+    <th>Assignment</th>
+    <th>Info</th>
+  </tr>
+  
+  <tr>
+  <td>1: Due 11:59, August 30/September 1</td>
+  <td>take the welcome survey</td>
+  <td>[<i class="fas fa-link"></i>]()</td>
+  </tr>
+  
+  <tr>
+  <td>2: Due 11:59,  August 30/September 1</td>
+  <td>if you haven't yet, take the welcome survey</td>
+  <td>[<i class="fas fa-link"></i>]()</td>
+  </tr>
+  
+  <tr>
+  <td>3: Due 11:59,  September 7/8</td>
+  <td>chilling!</td>
+  <td><i class="fas fa-link" style="opacity:0.3"></i></td>
+  </tr>
+
+  <tr>
+  <td>4: Due 11:59,  September 14/15</td>
+  <td>speaker reflection</td>
+  <td>[<i class="fas fa-link"></i>](#speaker-reflections) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
+  </tr>
+  
+  <tr>
+  <td>5: Due 11:59,  September 22/23</td>
+  <td>field trip journal</td>
+  <td>[<i class="fas fa-link"></i>](#field-trip-journals) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
+  </tr>
+  
+  <tr>
+  <td>6: Due 11:59,  October 5/6</td>
+  <td>speaker reflection</td>
+  <td>[<i class="fas fa-link"></i>](#speaker-reflections) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
+  </tr>
+  
+  <tr>
+  <td>7: Due 11:59,  October 12/13</td>
+  <td>field trip journal</td>
+  <td>[<i class="fas fa-link"></i>](#field-trip-journals) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
+  </tr>
+  
+  <tr>
+  <td>8: Due 11:59,  October 19/20</td>
+  <td>speaker reflection</td>
+  <td>[<i class="fas fa-link"></i>](#speaker-reflections) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
+  </tr>
+  
+  <tr>
+  <td>9: Due 11:59,  October 26/27</td>
+  <td>field trip journal and [student leader eval](#student-leader-evaluations)</td>
+  <td>[<i class="fas fa-link"></i>](#field-trip-journals) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
+  </tr>
+  
+  <tr>
+  <td>10: Due 11:59,  November 2/3</td>
+  <td>speaker reflection</td>
+  <td>[<i class="fas fa-link"></i>](#speaker-reflections) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
+  </tr>
+  
+  <tr>
+  <td>11: Due 11:59,  November 9/10</td>
+  <td>field trip journal</td>
+  <td>[<i class="fas fa-link"></i>](#field-trip-journals) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
+  </tr>
+  
+  <tr>
+  <td>12: Due 11:59,  November 16/17</td>
+  <td>speaker reflection</td>
+  <td>[<i class="fas fa-link"></i>](#speaker-reflections) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
+  </tr>
+  
+  
+  <tr>
+  <td>13: HAVE FUN November 24-25</td>
+  <td>hOliDaY</td>
+  <td><i class="fas fa-link" style="opacity:0.3"></i></td>
+  </tr>
+  
+  <tr>
+  <td>14: Due 11:59,  November 30/December 1</td>
+  <td>speaker reflection and [student leader eval](#student-leader-evaluations)</td>
+  <td>[<i class="fas fa-link"></i>](#speaker-reflections) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
+  </tr>
+  
+  <tr>
+  <td>15: Due 11:59,  FiNaLs December 7/8</td>
+  <td>final reflection paper</td>
+  <td>[<i class="fas fa-link"></i>](#final-reflection-paper) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
+  </tr>
+
+</table>
+
+
+### Field trip journals
+
+After each field trip, you will write a journal of 1-2 pages that addresses the following questions:
+
++ Where did you go, and what was it all about? (A research lab studying mice? Collections at the Field Museum? What is the primary goal of where you went? -- to cure cancer? To research climate change?)
++ What were some highlights?
++ What were some lowlights?
++ Would you recommend this field trip for future classes? Why or why not?
++ You are encouraged to write an extra paragraph about something fun, interesting, and entertaining that happened on your field trip. It does not have to be about science or biology. Give us a chance to get to know you!
+
+[[download the field trip journal template]()]  
+[[submit to student leader](#submitting-assignments)]
+
+### Speaker reflections
+
+After each speaker, you will have the opportunity to choose how you wish to reflect on the talk and demonstrate that you were really, truly, seriously, most definitely listening. Some ideas are below, but let us know if you have a different idea you'd like to try. We are open to your creative expression!
+
++ **Write a formal letter.** Practice writing a formal letter to a professional by writing a letter to the speaker about their talk. (You do not need to send this letter! It's just great practice.) This should be 1-2 pages. <br> [[download the template]()]
++ **Write a quiz.** If you were a teacher and you wanted to make sure your students were listening to a speaker: what would you ask them? Write 10 possible quiz questions and answers related to the talk you heard. Provide a mix of multiple choice, short answer, or other quesiton types (like matching). Your quiz answer key should be 1-2 pages. <br> [[download the template]()]
++ **Write an executive summary.** Your friend was really looking forward to this speaker but had to work and couldn't make it. Write a 1-2 page executive summary hitting the key points the speaker made during their presentation. <br> [[download the template]()]
++ **Write a short story.** Let your creative juices flow and write a 1-2 page short story related to the speaker and their presentation. What is it about? You tell me! Maybe you write a "day in the life" story; maybe it's a story about the speaker from the perspective of the organism they work on. It's up to you. <br> [[download the template]()]
+
+[[submit to student leader](#submitting-assignments)]
+
+### Student leader evaluations
+
+You will complete two evaluations of your student leader during the semester.
+
+[<i class="far fa-envelope"></i> **Submit to Lucy**](mailto:boxemail@box.com)\ \ `boxemail@box.com`
+
+### Final reflection paper
+
+Instead of a final exam, you will write a final reflection paper about your time in the course. Your course coordinator will grade these papers, not your student leader. With that in mind, Lucy is not the biggest fan of grading: her favorite thing in the world is getting to know all of your awesome personalities, not just putting numbers on a piece of paper! While you will need to touch on the topics listed below, feel free to add in any fun or juicy stories, reflections on your feelings, or anything else important to you. Do what you like to make it yours!
+
++ Spend some time reflecting on your student leader. What were their strengths? Was there anything you felt could be improved? 
++ Similarly, spend some time reflecting on your course coordinator. What did she do well in the course, and what are things she could improve?
++ Describe some of your favorite parts of the class and why you liked them.
++ Describe parts of the class you thought could be improved, and ways you might improve them.
++ At the beginning of the semester, the BCQ team set out to create a safe community for everyone, with fun activities designed to support you in your academic journey. Reflect on how well we accomplished this goal. What do you feel you gained from this course? If you feel you didn't gain anything, how could we improve future classes to reach our goal?
+
+[[download the final reflection paper template]()]  
+[<i class="far fa-envelope"></i> **Submit to Lucy**](mailto:boxemail@box.com)\ \ `boxemail@box.com`
+
+### Participation and extra credit
+
+To build a community, we all need to actually show up each week. That's why attendance and participation are super important to us! We reserve 5 points each week to give students who show up and are present in class. <br><i class="fas fa-hand-point-right"></i> Strict Sally says, yes, that means no doom scrolling on your phone.
+
+You will have the opportunity to earn extra credit points throughout the course by participating in various group activities. As long as you show up to class ready to have fun and play games, you'll have the chance to earn extra credit and boost your grade.

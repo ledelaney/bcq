@@ -1,14 +1,116 @@
 --- 
 title: "BIOS 196 Biology Colloquium"
 author: ""
-date: "`r Sys.Date()`"
+date: "Fall 2021: Meets Wednesday or Thursday from 2p-350p in SESXXXX"
 site: bookdown::bookdown_site
-output: bookdown::gitbook
+output:
+  bookdown::gitbook:
+    css: style.css
 documentclass: book
-github-repo: ledelaney/bcq
-description: "Website for all course materials related to Biology Colloquium, Fall 2021."
+description: "Website for all course materials related to Biology Colloquium, Fall 2021"
+url: 'https\://ledelaney.org/teaching/bcq'
+github-repo: "ledelaney/bcq"
+cover-image: "images/cover.png"
+apple-touch-icon: "touch-icon.png"
+apple-touch-icon-size: 120
+favicon: "favicon.ico"
 ---
 
 # Welcome to Biology Colloquium!
 
-This website contains the most up-to-date information on our various course activities. Student leaders will be setting up GroupMes for their various sections for more specific announcements ([download GroupMe here](www.link.com)).
+This course is really a community: together, we will explore the various careers available to those who pursue a degree in biological sciences with a dope lineup of guest speakers and field trips. More importantly, we hope to make some new friends and have some fun. College isn't always easy, but this community should be a safe space where everyone feels comfortable discussing their hopes, dreams, and fears -- and the BCQ team will do everything we can to support you as you begin your academic journey.
+
+<div style="width:100%;height:0;padding-bottom:25%;position:relative;"><iframe src="https://giphy.com/embed/xUA7bcP3spz0M24IEw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/schittscreek-funny-xUA7bcP3spz0M24IEw">via GIPHY</a></p>
+
+This website is a living document that will contain the most up-to-date information on our various activities. Student leaders will be setting up GroupMes for their sections for more specific announcements throughout the course. Stay tuned for more details. 
+
+[[click here to download GroupMe](https://groupme.com/en-US/)]
+
+**First order of business:** \ [[fill out the welcome survey]()]  
+This is important so we can put you in groups based on your unique interests!
+
+The first 2-3 weeks of classes will be spent getting to know each other, building groups with student leaders, and finding out how the BCQ team can best serve you. After that, we will alternate each week between field trips (with your student leader and group), and guest speakers (everyone together).
+
+
+## How to use this website
+
+This website can be accessed from any device that is convenient for you. Use the buttons on the top navigation bar to open or close the navigation panel, search the website, or change the font and color to suit your preferences. (If you want to know more about how this website was created, and what GitHub even is, ask Lucy. She may pass out because she is so excited that you asked.) The website will grow and change as activities are added and the semester moves along.
+
+<i class="fas fa-hand-point-right"></i> No one likes a Strict Sally, but every once and awhile she makes a good point. Find this symbol when Strict Sally says something important.
+
+If you poke around on this website, you'll also find:
+
+<table class="table" style="max-width:900px;margin-left:auto;margin-right:auto">
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+  
+  <tr>
+  <td><i class='fas fa-tools fa-lg'></i> \ [Nuts and Bolts](#nuts-and-bolts)</td>
+  <td>Important course documents and weekly to-dos</td>
+  </tr>
+  
+  <tr>
+  <td><i class='far fa-copy fa-lg'></i> \ [Assignments](#assignments)</td>
+  <td>How to complete and submit your weekly assignments</td>
+  </tr>
+  
+  <tr>
+  <td><i class='fas fa-bullhorn fa-lg'></i> \ [Speakers](#speakers)</td>
+  <td>Updated regularly with information on speaker lineup</td>
+  </tr>
+  
+  <tr>
+  <td><i class='fas fa-suitcase fa-lg'></i> \ [Field Trips](#field-trips)</td>
+  <td>Tidbits from field trips</td>
+  </tr>
+  
+  <tr>
+  <td><i class='fas fa-user-graduate fa-lg'></i> \ [Study Halls](#study-halls)</td>
+  <td>Informal drop-in hours on various topics</td>
+  </tr>
+  
+  <tr>
+  <td><i class='far fa-folder-open fa-lg'></i> \ [Extras](#extras)</td>
+  <td>Extra information and materials about the course</td>
+  </tr>
+  
+  </table>
+
+## Meet the BCQ Team
+
+Our team includes student leaders, a course coordinator, and faculty advisors. During the first two weeks of the semester, you'll have an opportunity to get to know all the student leaders and the course coordinator -- and we will work to pair you with student leaders whose interests match yours. Your student leader is the one responsible for planning your field trips, grading most of your assignments, and keeping up with you all week-to-week, so make sure to give them extra elbow bumps for all their hard work.
+
+<div style="width:100%;height:0;padding-bottom:25%;position:relative;"><iframe src="https://giphy.com/embed/xjpFuSeXTnoBQOKLiQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/UOPX-high-five-uopx-university-of-phoenix-xjpFuSeXTnoBQOKLiQ">via GIPHY</a></p>
+
+### Meet your student leaders
+
+Coming soon!
+
+### Meet your course coordinator
+
+<img src="https://bios.uic.edu/wp-content/uploads/sites/286/2018/05/ldelan5-profile-157x180.jpg" alt="" style="border-radius:90%; float:left; padding:1.5rem;">
+**Lucy** (she/her) \ \ [<i class="far fa-envelope"></i> Email](mailto:ldelan5@uic.edu) \ \ [<i class="fas fa-laptop"></i> Website](https://ledelaney.org)  
+Lucy has been studying biology for 15 years, so she is very ancient but tries hard to be "hip." Once upon a time she was a Forensic Molecular Biologist at the NYC Medical Examiner's Office, but she gave up that life to study flowers and confuse her relatives. Likes: huevos rancheros, building IKEA furniture, waking up really early, and peonies. Dislikes: clutter, memes she does not understand, and bad formatting. Aspirations: helping undergraduates discover their superpowers. 
+
+### Meet your faculty advisors
+
+<img src="https://bios.uic.edu/wp-content/uploads/sites/286/2018/06/knelsonn-profile-157x180.jpg" alt="" style="border-radius:90%; float:left; padding:1.5rem;">
+**Dr. Karin Nelson** [<i class="far fa-envelope"></i> Email](mailto:knelsonn@uic.edu) \ \ [<i class="fas fa-laptop"></i> Website](https://bios.uic.edu/profiles/nelson-karin/)   
+Karin bio here.
+
+
+<img src="https://bios.uic.edu/wp-content/uploads/sites/286/2018/06/robie-profile-157x180.jpg" alt="" style="border-radius:90%; float:left; padding:1.5rem;">
+**Dr. Robie Mason-Gamer** [<i class="far fa-envelope"></i> Email](mailto:robie@uic.edu) \ \ [<i class="fas fa-laptop"></i> Website](https://bios.uic.edu/profiles/mason-gamer-roberta-j/)  
+Robie bio here.
+\\
+\\
+\\
+
+<img src="https://bios.uic.edu/wp-content/uploads/sites/286/2018/06/mmuller-profile-157x180.jpg" alt="" style="border-radius:90%; float:left; padding:1.5rem;">
+**Prof. Mike Muller** [<i class="far fa-envelope"></i> Email](mailto:mmuller@uic.edu) \ \ [<i class="fas fa-laptop"></i> Website](https://bios.uic.edu/profiles/muller-michael/)  
+Mike bio here.
+\\
+\\
+\\

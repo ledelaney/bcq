@@ -12,3 +12,28 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+.sidenote, .marginnote { float: right;
+  clear: right;
+  margin-right: -1rem;
+  width: 30%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-left: 1rem;
+  line-height: 1.3;
+  vertical-align: baseline;
+  position: relative; 
+  background-color: hsl(60, 29%, 94%);
+padding: 2rem;}
+
+  .marginnote code, .sidenote code { font-size: 1rem; }
+
+  .marginnote img { display: block; }
+
+
+  @media (max-width: 760px) {
+    .marginnote, .sidenote {
+      left: 0;
+  }
