@@ -1,33 +1,19 @@
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%PANDOC SPECIFIC SHIT, TAKEN FROM ANOTHER TEMPLATE...
-
-\documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$babel-lang$,$endif$$if(papersize)$$papersize$paper,$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
+\documentclass[]{article}
 
 %Deal with margins and other geometry stuff
-\usepackage[$if(geometry_opts)$$geometry_opts$,$endif$]{geometry}
-\usepackage{fontspec}
-\setmainfont{MinionPro-Regular.otf}[
-Path = /Library/Fonts/minion-pro-cufonfonts/,
-BoldFont = MinionPro-Bold.otf,
-ItalicFont = MinionPro-It.otf,
-BoldItalicFont  = MinionPro-BoldIt.otf]
-
-% Need to include this for refs with Pandoc
-$if(csl-refs)$
-\newlength{\cslhangindent}
-\setlength{\cslhangindent}{1.5em}
-\newenvironment{cslreferences}%
-{$if(csl-hanging-indent)$\setlength{\parindent}{0pt}%
-\everypar{\setlength{\hangindent}{\cslhangindent}}\ignorespaces$endif$}%
-{\par}
-$endif$
+\usepackage[margin=1in]{geometry}
+% \usepackage{fontspec}
+% \setmainfont{MinionPro-Regular.otf}[
+% Path = /Library/Fonts/minion-pro-cufonfonts/,
+% BoldFont = MinionPro-Bold.otf,
+% ItalicFont = MinionPro-It.otf,
+% BoldItalicFont  = MinionPro-BoldIt.otf]
 
 %Double-spacing or whatever...
-$if(linestretch)$
 \usepackage{setspace}
-\setstretch{$linestretch$}
-$endif$
+\setstretch{1.5}
+
 
 %Some of this is math package stuff, but honestly i don't really get
 %what most of it is doing
@@ -38,13 +24,6 @@ $endif$
 \usepackage{enumitem}
 \usepackage{multicol}
 
-
-%Numbered section spacing
-$if(numbersections)$
-\setcounter{secnumdepth}{2}
-$else$
-\setcounter{secnumdepth}{0}
-$endif$
 
 %For LIST spacing
 \providecommand{\tightlist}{%
@@ -58,6 +37,7 @@ $endif$
 \widowpenalty10000
 \clubpenalty10000
 
+\usepackage{fontawesome5}
 \usepackage{pdflscape}
 \usepackage{pdfpages}
 \usepackage{xcolor}
@@ -137,8 +117,8 @@ $endif$
 \pagestyle{fancy}
 \renewcommand{\headrulewidth}{0.4pt}
 \fancyhead[C]{}{}
-\fancyhead[L]{\textsc{$semester$}}
-\fancyhead[R]{\textit{$title$}}
+\fancyhead[L]{\textsc{Fall 2021: Wednesday (CRN)}}
+\fancyhead[R]{\textit{BIOS 196 Biology Colloquium (BCQ)}}
 \fancyfoot[L]{\tiny{\textit{Version date: \today}}}
     \fancyfoot[R]{\thepage\ of \pageref{LastPage}}
 \fancyfoot[C]{}
@@ -148,12 +128,68 @@ $endif$
 \begin{document}
 
 \begin{center}
-  \textsc{\large{$title$}}
+  \textsc{\large{BIOS 196 Biology Colloquium (BCQ)}}
   \end{center}
 
 %%%%%%%%%%%%%% DOCUMENT BODY
 
-$body$
+\section{Course Details}
+
+\begin{center}
+
+\faLaptop\ \href{www.link.com}{course website} \hspace{1.5mm} \faSchool\ meeting mostly in-person \hspace{1.5mm} \faClock\ wednesdays 2:00-3:50pm \hspace{1.5mm} \faCreditCard\  2 credit hours  
+
+\faCompass\ BCQ classroom SES \hspace{1.5mm}  \faCompass\ BCQ office SES 3360
+  
+\end{center}
+
+
+There are no prerequisites for this course, and there is no textbook. On some weeks we will meet together as a group for activities and guest speakers in the BCQ classroom. On other weeks, you will go on field trips with your student leader in a smaller group (locations for field trips will be determined later).
+
+\section{Overview and Goals}
+
+The Biology Colloquium (BCQ) is a class designed to generate a sense of excitement and community among biology majors about the (endless! amazing! breathtaking!) possibilities available to you here at UIC and after graduation. The BCQ team aims to do this with cool field trips and interesting guest speakers, but we also hope to provide you with practical support and tools throughout the semester. Our goal is to create a welcoming and supportive community, and have some fun along the way.
+
+\section{Meet the BCQ Team}
+
+For full biographies of the BCQ team (along with some pictures), check out the \href{www.link.com}{BCQ course website}.
+
+\begin{multicols*}{2}
+
+  \subsection{Student leaders}
+
+  \begin{itemize}[label=$\mathwitch*$]
+    \item{\textbf{Alyssa} \hspace{1mm} Email: \url{alyssa@uic.edu}}
+   \item{\textbf{Alyssa} \hspace{1mm} Email: \url{alyssa@uic.edu}}
+    \end{itemize}
+
+\subsection{Course coordinator}
+    
+    \begin{itemize}[label=$\mathwitch*$]
+    \item{\textbf{Lucy Delaney} \hspace{1mm} Email: \url{ldelan5@uic.edu}}
+    \end{itemize}
+
+
+  \end{multicols*}   
+
+
+    \subsection{Faculty advisors}
+    
+    \begin{itemize}[label=$\mathwitch*$]
+    \item{\textbf{Dr. Karin Nelson} \hspace{1mm} Email: \url{karin@uic.edu}}
+    \item{\textbf{Dr. Robie Mason-Gamer} \hspace{1mm} Email: \url{robie@uic.edu}}
+    \item{\textbf{Prof. Mike Muller} \hspace{1mm} Email: \url{mmuller@uic.edu}}
+    \end{itemize}
+  
+
+
+\section{Expectations}
+
+\subsection{For the BCQ team}
+
+\subsection{For students}
+
+\section{Policies}
 
 
 \end{document}

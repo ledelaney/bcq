@@ -6,7 +6,7 @@ Here you can find important course documents and a list of tasks and activities 
 
 [<i class="far fa-file-pdf"></i> Downlod PDF](www.link.com) \ \ [<i class="far fa-file-code"></i> View Web](www.link.com)
 
-Yes, the syllabus is full of a lot of boring information and rules, but we want to make sure you have everything you need to get the most out of BCQ!
+Yes, the syllabus is full of a lot of boring information and rules, but we want to make sure you have everything you need to get the most out of BCQ.
 
 <i class="fas fa-hand-point-right"></i> Strict Sally says, This document contains important policies about absences and late work! I love policies!
 
@@ -15,9 +15,9 @@ Yes, the syllabus is full of a lot of boring information and rules, but we want 
 
 ## What am I doing this week?
 
-<i class="fas fa-users"></i> = meeting as a class for a speaker or activity  
-<i class="fa fa-suitcase"></i> \ =  \ field trip with your student leader  
-<i class="fa fa-check-square"></i> \ =  \ extra credit opportunity in class  
+<i class="fas fa-users"></i> <i class="fas fa-arrow-right" style="opacity:0.5"></i> \ meeting as a class for a speaker or activity  
+<i class="fa fa-suitcase"></i> \ <i class="fas fa-arrow-right" style="opacity:0.5"></i>  \ field trip with your student leader  
+<i class="fa fa-check-square"></i> \ <i class="fas fa-arrow-right" style="opacity:0.5"></i>  \ extra credit opportunity in class  
 
 Click on the assignment or study hall links to see what's happening that week. (Updated regularly!)
 
@@ -260,7 +260,9 @@ Click on the assignment or study hall links to see what's happening that week. (
 
 ## Course grades
 
-The bulk of your grade will come from your weekly assignments. The rest is made up of participation points, student leader evaluations, your final reflection paper, and extra credit. See grade cut-offs below.
+We would be lying if we said that grades didn't matter at all. But it's important to remember that grades are simply a tool used by educators to track your progress in the course: they have no relevance to your value as a human being. We are here to serve you, regardless of how many points you earn in your classes. And, if you are struggling to keep up in this course or any other, do not hesitate to [reach out to Lucy](mailto:ldelan5@uic.edu). She loves to tell the story of how she got a D in Advanced Analytical Chemistry her senior year and barely graduated, and countless other stories where she struggled to keep up with work and school.
+
+Anyway. The bulk of your grade will come from your weekly assignments. The rest is made up of participation points, student leader evaluations, your final reflection paper, and extra credit. See grade breakdown and cutoffs below.
 
 <div style="width:100%;height:0;padding-bottom:25%;position:relative;"><iframe src="https://giphy.com/embed/xT9IgEYXCNqPZnqMuY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/studiosoriginals-xT9IgEYXCNqPZnqMuY">via GIPHY</a></p>
 
@@ -307,35 +309,37 @@ The bulk of your grade will come from your weekly assignments. The rest is made 
   
 </table>
 
+Find below the grade cutoffs for each letter grade. If you are curious about your current grade in the class, login to [Blackboard](https://uic.blackboard.com/ultra/institution-page) and view My Grades. We will do our best to make sure you have grades and comments for your assignments within one week of handing them in.
+
 <table style="max-width:350px;margin-left:auto;margin-right:auto">
   <tr>
     <th>Grade</th>
-    <th>Points</th>
+    <th>Points (Percentage)</th>
   </tr>
   
   <tr>
   <td>A</td>
-  <td>269 or higher</td>
+  <td>269 or higher (90% or higher)</td>
   </tr>
 
   <tr>
   <td>B</td>
-  <td>239-268</td>
+  <td>239-268 (80-89%)</td>
   </tr>
   
   <tr>
   <td>C</td>
-  <td>209-238</td>
+  <td>209-238 (70-79%)</td>
   </tr>
 
   <tr>
   <td>D</td>
-  <td>179-208</td>
+  <td>179-208 (60-69%)</td>
   </tr>
 
   <tr>
   <td>F</td>
-  <td>178 or lower</td>
+  <td>178 or lower (below 60%)</td>
   </tr>
 
 
