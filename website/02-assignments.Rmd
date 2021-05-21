@@ -175,25 +175,26 @@ After each field trip, you will write a journal of 1-2 pages that addresses the 
 + Would you recommend this field trip for future classes? Why or why not?
 + You are encouraged to write an extra paragraph about something fun, interesting, and entertaining that happened on your field trip. It does not have to be about science or biology. Give us a chance to get to know you!
 
-[[download the field trip journal template]()]  
+[[download the field trip journal template](templates/LASTNAME-fieldtrip.docx)]  
 [[submit to student leader](#submitting-assignments)]
 
 ### Speaker reflections
 
 After each speaker, you will have the opportunity to choose how you wish to reflect on the talk and demonstrate that you were really, truly, seriously, most definitely listening. Some ideas are below, but let us know if you have a different idea you'd like to try. We are open to your creative expression!
 
-+ **Write a formal letter.** Practice writing a formal letter to a professional by writing a letter to the speaker about their talk. (You do not need to send this letter! It's just great practice.) This should be 1-2 pages. <br> [[download the template]()]
-+ **Write a quiz.** If you were a teacher and you wanted to make sure your students were listening to a speaker: what would you ask them? Write 10 possible quiz questions and answers related to the talk you heard. Provide a mix of multiple choice, short answer, or other quesiton types (like matching). Your quiz answer key should be 1-2 pages. <br> [[download the template]()]
-+ **Write an executive summary.** Your friend was really looking forward to this speaker but had to work and couldn't make it. Write a 1-2 page executive summary hitting the key points the speaker made during their presentation. <br> [[download the template]()]
-+ **Write a short story.** Let your creative juices flow and write a 1-2 page short story related to the speaker and their presentation. What is it about? You tell me! Maybe you write a "day in the life" story; maybe it's a story about the speaker from the perspective of the organism they work on. It's up to you. <br> [[download the template]()]
++ **Write a formal letter.** Practice writing a formal letter to a professional by writing a letter to the speaker about their talk. (You do not need to send this letter! It's just great practice.) This should be 1-2 pages. 
++ **Write a quiz.** If you were a teacher and you wanted to make sure your students were listening to a speaker: what would you ask them? Write 10 possible quiz questions and answers related to the talk you heard. Provide a mix of multiple choice, short answer, or other quesiton types (like matching). Your quiz answer key should be 1-2 pages. 
++ **Write an executive summary.** Your friend was really looking forward to this speaker but had to work and couldn't make it. Write a 1-2 page executive summary hitting the key points the speaker made during their presentation. 
++ **Write a short story.** Let your creative juices flow and write a 1-2 page short story related to the speaker and their presentation. What is it about? You tell me! Maybe you write a "day in the life" story; maybe it's a story about the speaker from the perspective of the organism they work on. It's up to you. 
 
+[[download the template](templates/LASTNAME-speaker.docx)]  
 [[submit to student leader](#submitting-assignments)]
 
 ### Student leader evaluations
 
 You will complete two evaluations of your student leader during the semester. Depending on where you end up working after college, you may be expected to evaluate the performance of bossess, employees, or students of your own. Use this opportunity to practice helpful evaluation by reflecting on the positive aspects of your student leader, as well as areas where they could improve. You are more than welcome to provide constructive criticism, but try to keep the vibes positive in your reflection. These should be one page.
 
-[[download the template]()]  
+[[download the template](templates/LASTNAME-evaluation.docx)]  
 [<i class="far fa-envelope"></i> **Submit to Lucy**](mailto:boxemail@box.com)\ \ `boxemail@box.com`
 
 ### Final reflection paper
@@ -206,7 +207,7 @@ Instead of a final exam, you will write a final reflection paper about your time
 + Describe parts of the class you thought could be improved, and ways you might improve them.
 + At the beginning of the semester, the BCQ team set out to create a safe community for everyone, with fun activities designed to support you in your academic journey. Reflect on how well we accomplished this goal. What do you feel you gained from this course? If you feel you didn't gain anything, how could we improve future classes to reach our goal?
 
-[[download the final reflection paper template]()]  
+[[download the final reflection paper template](templates/LASTNAME-final.docx)]  
 [<i class="far fa-envelope"></i> **Submit to Lucy**](mailto:boxemail@box.com)\ \ `boxemail@box.com`
 
 ### Participation and extra credit
