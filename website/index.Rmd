@@ -10,13 +10,15 @@ documentclass: book
 description: "Website for all course materials related to Biology Colloquium, Fall 2021"
 url: 'https\://ledelaney.org/teaching/bcq'
 github-repo: "ledelaney/bcq"
-cover-image: "images/cover.png"
+cover-image: "images/birds.png"
 apple-touch-icon: "touch-icon.png"
 apple-touch-icon-size: 120
 favicon: "favicon.ico"
 ---
 
 # Welcome to Biology Colloquium!
+
+<img src="images/birds.png">
 
 This course is really a community: together, we will explore the various careers available to those who pursue a degree in biological sciences with a dope lineup of guest speakers and field trips. More importantly, we hope to make some new friends and have some fun. College isn't always easy, but this community should be a safe space where everyone feels comfortable discussing their hopes, dreams, and fears -- and the BCQ team will do everything we can to support you as you begin your academic journey.
 
@@ -32,7 +34,7 @@ This is important so we can put you in groups based on your unique interests!
 The first 2-3 weeks of classes will be spent getting to know each other, building groups with student leaders, and finding out how the BCQ team can best serve you. After that, we will alternate each week between field trips (with your student leader and group), and guest speakers (everyone together).
 
 
-## How to use this website
+## How do I use this website?
 
 This website can be accessed from any device that is convenient for you. Use the buttons on the top navigation bar to open or close the navigation panel, search the website, or change the font and color to suit your preferences. (If you want to know more about how this website was created, and what GitHub even is, ask Lucy. She may pass out because she is so excited that you asked.) The website will grow and change as activities are added and the semester moves along.
 
@@ -78,7 +80,7 @@ If you poke around on this website, you'll also find:
   
   </table>
 
-## Meet the BCQ Team
+## Who is on the BCQ Team?
 
 Our team includes student leaders, a course coordinator, and faculty advisors. During the first two weeks of the semester, you'll have an opportunity to get to know all the student leaders and your course coordinator -- and we will work to pair you with student leaders whose interests match yours. Your student leader is the one responsible for planning your field trips, grading most of your assignments, and keeping up with you all week-to-week, so make sure to give them extra elbow bumps for all their hard work.
 

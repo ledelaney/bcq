@@ -1,5 +1,7 @@
 # Assignments
 
+<img src="images/assignments.png">
+
 **You will have an assignment to turn in each week.** These assignments will be due at 11:59pm the day before class. If your section meets on Wednesday, that's 11:59pm on Tuesday. If your section meets on Thursday, that's 11:59pm on Wednesday. We hate to pull the "Strict Sally" card, but we truly believe that getting the most out of BCQ requires a tiiiiiny bit of reflection and work. 
 
 Please make sure to read through these instructions and do your very best to follow them. We want to get to finals like:
@@ -191,6 +193,7 @@ After each speaker, you will have the opportunity to choose how you wish to refl
 
 You will complete two evaluations of your student leader during the semester. Depending on where you end up working after college, you may be expected to evaluate the performance of bossess, employees, or students of your own. Use this opportunity to practice helpful evaluation by reflecting on the positive aspects of your student leader, as well as areas where they could improve. You are more than welcome to provide constructive criticism, but try to keep the vibes positive in your reflection. These should be one page.
 
+[[download the template]()]  
 [<i class="far fa-envelope"></i> **Submit to Lucy**](mailto:boxemail@box.com)\ \ `boxemail@box.com`
 
 ### Final reflection paper

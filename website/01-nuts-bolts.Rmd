@@ -1,5 +1,7 @@
 # Nuts and Bolts 
 
+<img src="images/nuts-bolts.png">
+
 Here you can find important course documents and a list of tasks and activities for each week. Reach out to your student leader or course coordinator if you have specific questions!
 
 ## Syllabus
@@ -258,7 +260,7 @@ Click on the assignment or study hall links to see what's happening that week. (
 
 </table>
 
-## Course grades
+## How are grades determined?
 
 We would be lying if we said that grades didn't matter at all. But it's important to remember that grades are simply a tool used by educators to track your progress in the course: they have no relevance to your value as a human being. We are here to serve you, regardless of how many points you earn in your classes. And, if you are struggling to keep up in this course or any other, do not hesitate to [reach out to Lucy](mailto:ldelan5@uic.edu). She loves to tell the story of how she got a D in Advanced Analytical Chemistry her senior year and barely graduated, and countless other stories where she struggled to keep up with work and school.
 
