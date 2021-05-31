@@ -33,6 +33,10 @@
     footer {
         font-size: x-small;
     }
+
+    .column {
+        width: 100%;
+      }
 }
 
 
@@ -57,6 +61,10 @@
     footer {
         font-size: small;
     }
+
+    .column {
+        width: 100%;
+      }
 
     .shapes{
         position: fixed;
@@ -181,6 +189,18 @@
         font-size: small;
     }
 
+    .column {
+        float: left;
+        width: 33.33%;
+      }
+      
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+    
     .shapes{
         position: fixed;
         bottom: 3rem;
@@ -362,6 +382,18 @@
         font-size: small;
     }
 
+    .column {
+        float: left;
+        width: 33.33%;
+      }
+      
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+
     .shapes{
         position: fixed;
         bottom: 3rem;
@@ -519,7 +551,7 @@ body {
 
 
 h1 {
-    margin-bottom: -0.2rem;
+    margin-bottom: 0.5rem;
     color: black;
     font-family: "Cooper-Hewitt";
     margin-top: 1.5rem;
@@ -528,7 +560,6 @@ h1 {
 h2 {
     font-style: italic;
     font-size: large;
-    margin-bottom: -0.8rem;
     color: black;
 }
 
@@ -561,10 +592,6 @@ a:visited{
 }
 
 
-.contact {
-    font-family: "Charter-Racket";
-    word-spacing: 0.2rem;
-}
 
 
 ul {
@@ -578,29 +605,14 @@ p {
     line-height: 1.4;
 }
 
-.fa-r-project {
-    color: black;
-}
-
-
-.pubs p {
-    text-indent: -2rem;
-    margin-left: 2rem;
-    width: 90%;
-}
-
-.pubs a {
-    margin-left: 1.9rem;
-}
-
-.pubs h2{
-    margin-bottom: -0.5rem;
-}
 
 footer {
     padding-top: 2rem;
 }
 
-
-
-  
+.table{
+ padding-top: 2em;
+ max-width:900px;
+ margin-left:auto;
+ margin-right:auto
+}
