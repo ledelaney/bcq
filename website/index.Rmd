@@ -1,19 +1,13 @@
 --- 
+knit: "bookdown::render_book"
 title: "BIOS 196 Biology Colloquium"
 author: ""
-date: "Fall 2021: Meets Wednesday or Thursday from 2p-350p in SESXXXX"
-site: bookdown::bookdown_site
-output:
-  bookdown::gitbook:
-    css: style.css
-documentclass: book
+date: "Fall 2021: Meets Wednesday or Thursday from 2:00p-3:50p in SESXXXX"
 description: "Website for all course materials related to Biology Colloquium, Fall 2021"
 url: 'https\://ledelaney.org/teaching/bcq'
 github-repo: "ledelaney/bcq"
 cover-image: "images/birds.png"
-apple-touch-icon: "touch-icon.png"
-apple-touch-icon-size: 120
-favicon: "favicon.ico"
+site: bookdown::bookdown_site
 ---
 
 # Welcome to Biology Colloquium!

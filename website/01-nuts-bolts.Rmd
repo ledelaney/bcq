@@ -5,8 +5,8 @@
 Here you can find important course documents and a list of tasks and activities for each week. Reach out to your student leader or course coordinator if you have specific questions!
 
 ## Syllabus
-
-[<i class="far fa-file-pdf"></i> Downlod PDF](syllabus/texed/syllabus.pdf) \ \ [<i class="far fa-file-code"></i> View Web](syllabus/html/syllabus.html)
+ 
+[<i class="far fa-file-code"></i> View Web](syllabus/html/syllabus.html) \ \ [<i class="far fa-file-pdf"></i> Downlod PDF](syllabus/texed/syllabus.pdf)
 
 Yes, the syllabus is full of a lot of boring information and rules, but we want to make sure you have everything you need to get the most out of BCQ.
 
