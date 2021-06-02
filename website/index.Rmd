@@ -18,6 +18,8 @@ favicon: "favicon.ico"
 
 # Welcome to Biology Colloquium!
 
+<i class="fas fa-tools fa-lg"></i> _Note: This website is currently under construction!_ <i class="fas fa-tools fa-lg"></i>
+
 <img src="images/birds.png">
 
 This course is really a community: together, we will explore the various careers available to those who pursue a degree in biological sciences with a dope lineup of guest speakers and field trips. More importantly, we hope to make some new friends and have some fun. College isn't always easy, but this community should be a safe space where everyone feels comfortable discussing their hopes, dreams, and fears -- and the BCQ team will do everything we can to support you as you begin your academic journey.
