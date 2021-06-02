@@ -1,5 +1,5 @@
 
-\documentclass[]{article}
+\documentclass[12pt]{article}
 
 %Deal with margins and other geometry stuff
 \usepackage[margin=1.2in]{geometry}
@@ -44,18 +44,7 @@
 \definecolor{light-gray}{gray}{0.95}
 
 
-\definecolor{fa2016}{HTML}{F8766D}
-\definecolor{sp2017}{HTML}{DB8E00}
-\definecolor{fa2017}{HTML}{AEA200}
-\definecolor{sp2018}{HTML}{64B200}
-\definecolor{su2018}{HTML}{00BD5C}
-\definecolor{fa2018}{HTML}{00C1A7}
-\definecolor{sp2019}{HTML}{00BADE}
-\definecolor{su2019}{HTML}{00A6FF}
-\definecolor{fa2019}{HTML}{B385FF}
-\definecolor{sp2020}{HTML}{EF67EB}
-\definecolor{su2020}{HTML}{FF63B6}
-\definecolor{freakishgreen}{HTML}{8332a8}
+\definecolor{salmon}{HTML}{fa8072}
 
 \usepackage[pages=alldocument]{background}
 \backgroundsetup{
@@ -73,12 +62,7 @@ contents={%
 }
 
 \usepackage{tcolorbox}
-\newtcolorbox{blackbox}{
-  colback=light-gray,
-  colframe=black,
-  coltext=black,
-  boxsep=2pt,
-  arc=4pt}
+
 
 %\usepackage[round]{natbib}
 \usepackage[natbibapa]{apacite} 
@@ -106,9 +90,9 @@ contents={%
 \usepackage{hyperref}
 \hypersetup{
     colorlinks=true,
-    linkcolor=violet,
+    linkcolor=salmon,
     filecolor=cyan,      
-    urlcolor=violet,
+    urlcolor=salmon,
     citecolor = black
 }
 
@@ -123,9 +107,9 @@ contents={%
 
 
 \usepackage{float}
-%\floatplacement{table}{p}
-%\restylefloat{table}
-%\newfloat{type}{placement}
+
+\let\oldhref\href
+\renewcommand{\href}[2]{\oldhref{#1}{\bfseries#2}}
 
 %Header and footer junk
 \usepackage{fancyhdr}
@@ -152,22 +136,34 @@ contents={%
 
 \begin{center}
 
-\faLaptop\ \href{www.link.com}{course website} \hspace{1.5mm} \faSchool\ meeting mostly in-person \hspace{1.5mm} \faClock\ wednesdays 2:00-3:50pm \hspace{1.5mm} \faCreditCard\  2 credits  
+\faLaptop\ \href{https://ledelaney.org/teaching/2021/bcq}{course website} \hspace{3mm} \faSchool\ meeting mostly in-person \hspace{3mm} \faClock\ wednesdays 2:00-3:50pm \hspace{3mm} \faCreditCard\  2 credits  
 
 \faCompass\ BCQ classroom SES \hspace{1.5mm}  \faCompass\ BCQ office SES 3360
   
 \end{center}
 
-
-There are no prerequisites for this course, and there is no textbook. On some weeks we will meet together as a group for activities and guest speakers in the BCQ classroom. On other weeks, you will go on field trips with your student leader in a smaller group (locations for field trips will be determined later).
-
 \section{Overview and Goals}
 
-The Biology Colloquium (BCQ) is a class designed to generate a sense of excitement and community among biology majors about the (endless! amazing! breathtaking!) possibilities available to you here at UIC and after graduation. The BCQ team aims to do this with cool field trips and interesting guest speakers, but we also hope to provide you with practical support and tools throughout the semester. Our goal is to create a welcoming and supportive community, and have some fun along the way.
+The Biology Colloquium (BCQ) is a class designed to generate a sense of excitement and community among biology majors about the (endless! amazing! breathtaking!) possibilities available to you here at UIC and after graduation. The BCQ team aims to accomplish this with cool field trips and interesting guest speakers, but we also hope to provide you with practical support and tools for success throughout the semester. Our goal is to create a welcoming and supportive community, and have some fun along the way. You are encourged to reach out to your coordinator or student leader at any time with questions or concerns.
+
+By the end of the course, we hope you have:
+
+\begin{enumerate}
+  \item{learned about several career possibilities available to life sciences graduates through guest speakers and field trips, and}
+  \item {developed practical skills (e.g., formal letter writing) that will aid you in your studies and your future endeavors.}
+\end{enumerate}
+
+\textbf{The most up-to-date information regarding course activities and materials can be found on \href{https://ledelaney.org/teaching/2021/bcq}{BCQ course website}.}
+
+
+\section{Prerequisites}
+
+There are no prerequisites for this course, and there is no textbook. We assume that you are available to attend all classes, and a general interest in biology-related careers. On some weeks we will meet together as a group for activities and guest speakers in the BCQ classroom. On other weeks, you will go on field trips with your student leader in a smaller group (locations for field trips will be determined later).
 
 \section{Meet the BCQ Team}
 
-For full biographies of the BCQ team (along with some pictures), check out the \href{www.link.com}{BCQ course website}.
+For full biographies of the BCQ team (along with some pictures), check out the \href{https://ledelaney.org/teaching/2021/bcq}{BCQ course website}.
+
 \setstretch{1}
 \subsection{Course coordinator}
 \textbf{Lucy Delaney}\ Email: \url{ldelan5@uic.edu}
@@ -201,6 +197,27 @@ For full biographies of the BCQ team (along with some pictures), check out the \
 
 \leftskip 0em
 \setstretch{1.5}
+
+\section{Course Logistics}
+
+\subsection{Weekly assignments}
+
+Each week, you will be responsible for one assignment. (Twice during the semester you will also be asked to provide feedback on your student leader.) \textbf{Assignments will always be due at 11:59pm the day before your section meets.} If your section meets on Wednesday, your assignment will be due 11:59pm on Tuesday. Find more details below about assignments and how to submit them.
+
+\subsection{Staying in touch}
+
+Your student leader will set up a GroupMe for important course announcements, including where to meet for field trips. For any other questions or concerns, \href{mailto:ldelan5@uic.edu}{reach out to Lucy, the course coordinator}.
+
+\subsection{Study hall sessions}
+
+From 12p-2p on Wednesdays and Thursdays, Lucy will hold informal study hall sessions in the BCQ office on a variety of topics. During the first two weeks of classes we will determine the topics together based on the interests of the class. Anyone is welcome to stop by for any reason, and yes, there will be snacks.
+
+\section{Schedule of Activities}
+
+\section{Assignments}
+
+\section{Code of Conduct}
+
 \section{Expectations}
 
 This course is also a community. To that end, everyone is expected to treat others with respect. We have a general expectation of positive vibes only.
@@ -229,8 +246,14 @@ We would be lying if we said that grades didn’t matter at all. But it’s impo
 
 \subsection{Absences}
 
-\section{Weekly Activities}
+In general, this course is centered around your participation — so we expect that everyone enrolled will do their best to attend all classes. But, life happens. All students can use up to two unexcused absences with 24-hour notice. Students with documented disabilities affecting attendance and a Letter of Accommidation will be excused for up to three absences. Any additional absences require documentation (e.g., a doctor's note).\\
 
-\section{Assignments}
+\textbf{Excused absence:} With 24-hour notice or documentation.\\
+Students may complete a make-up assignment in place of their normal journal or speaker reflection, but will receive zero points for attendance.\\
+
+\textbf{Unexcused absence:} Without 24-hour notice or without documentation.\\
+No makeup assignment or points for attendance.
+
+\section{Need more help?}
 
 \end{document}
