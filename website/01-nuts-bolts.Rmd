@@ -35,8 +35,22 @@ Click on the assignment or study hall links to see what's happening that week. (
 
 
 <tr>
-<td align="left">(1) August 25</td>
+<td align="left">(1) Aug 25/26</td>
 <td align="center">welcome to BCQ!</td>
+
+<td align="center"><i class="fas fa-users fa-lg"></i></td>
+      
+<td align="center">[<i class="far fa-copy fa-lg"></i>](welcomesurbey.com)</td>
+
+<td align="center">[<i class="fas fa-user-graduate fa-lg">](#study-halls)</i></td>
+
+<td align="center"><i class="fa fa-check-square fa-lg"></i></td>
+
+</tr>
+    
+<tr>
+<td align="left">(2) Sep 1/2</td>
+<td align="center">getting to know the BCQ team</td>
 
 <td align="center"><i class="fas fa-users fa-lg"></i></td>
       
@@ -47,30 +61,16 @@ Click on the assignment or study hall links to see what's happening that week. (
 <td align="center"><i class="fa fa-check-square fa-lg"></i></td>
 
 </tr>
-    
-<tr>
-<td align="left">(2) September 1</td>
-<td align="center">getting to know the BCQ team</td>
-
-<td align="center"><i class="fas fa-users fa-lg"></i></td>
-      
-<td align="center">[<i class="far fa-copy fa-lg"></i>](welcomesurbey.com)</td>
-
-<td align="center">[<i class="fas fa-user-graduate fa-lg">](#study-halls)</i></td>
-
-<td align="center"><i class="fa fa-check-square fa-lg"></i></td>
-
-</tr>
 
 <tr>
-<td align="left">(3) September 8</td>
+<td align="left">(3) Sep 8/9</td>
 <td align="center">what's it like to do forensic biology?</td>
 
 <td align="center"><i class="fas fa-users fa-lg"></i></td>
           
 <td align="center"><i class="far fa-copy fa-lg" style="opacity: 0.3;"></i></td>
 
-<td align="center">[<i class="fas fa-user-graduate fa-lg">](#study-halls)</i></td>
+<td align="center"><i class="fas fa-user-graduate fa-lg" style="opacity:0.3"></i></td>
     
 <td align="center"><i class="fa fa-check-square fa-lg"></i></td>
 
@@ -78,146 +78,146 @@ Click on the assignment or study hall links to see what's happening that week. (
 
 
 <tr>
-<td align="left">(4) September 15</td>
+<td align="left">(4) Sep 15/16</td>
 <td align="center">our very first field trips</td>
     
 <td align="center"><i class="fa fa-suitcase fa-lg"></i></td>
               
 <td align="center">[<i class="far fa-copy fa-lg"></i>](#speaker-reflections)</td>
         
-<td align="center">[<i class="fas fa-user-graduate fa-lg">](#study-halls)</i></td>
+<td align="center"><i class="fas fa-user-graduate fa-lg" style="opacity:0.3"></i></td>
         
 <td align="center"><i class="fa fa-check-square fa-lg" style="opacity: 0.3;"></i></td>
     
 </tr>
 
 <tr>
-<td align="left">(5) September 22</td>
+<td align="left">(5) Sep 22/23</td>
 <td align="center">warm-up activity and guest speaker</td>
 
 <td align="center"><i class="fas fa-users fa-lg"></i></td>
               
 <td align="center">[<i class="far fa-copy fa-lg"></i>](#field-trip-journals)</td>
         
-<td align="center">[<i class="fas fa-user-graduate fa-lg">](#study-halls)</i></td>
+<td align="center"><i class="fas fa-user-graduate fa-lg" style="opacity:0.3"></i></td>
         
 <td align="center"><i class="fa fa-check-square fa-lg"></i></td>
 </tr>
     
 <tr>
-<td align="left">(6) September 29</td>
+<td align="left">(6) Sep 29/30</td>
 <td align="center">our second field trips</td>
             
 <td align="center"><i class="fa fa-suitcase fa-lg"></i></td>
                       
 <td align="center">[<i class="far fa-copy fa-lg"></i>](#speaker-reflections)</td>
                 
-<td align="center">[<i class="fas fa-user-graduate fa-lg">](#study-halls)</i></td>
+<td align="center"><i class="fas fa-user-graduate fa-lg" style="opacity:0.3"></i></td>
                 
 <td align="center"><i class="fa fa-check-square fa-lg" style="opacity: 0.3;"></i></td>
             
 </tr>
 
 <tr>
-<td align="left">(7) October 6</td>
+<td align="left">(7) Oct 6/7</td>
 <td align="center">warm-up activity and guest speaker</td>
     
 <td align="center"><i class="fas fa-users fa-lg"></i></td>
                   
 <td align="center">[<i class="far fa-copy fa-lg"></i>](#field-trip-journals)</td>
             
-<td align="center">[<i class="fas fa-user-graduate fa-lg">](#study-halls)</i></td>
+<td align="center"><i class="fas fa-user-graduate fa-lg" style="opacity:0.3"></i></td>
             
 <td align="center"><i class="fa fa-check-square fa-lg"></i></td>
         
 </tr>
 
 <tr>
-<td align="left">(8) October 13</td>
+<td align="left">(8) Oct 13/14</td>
 <td align="center">our third field trips</td>
                     
 <td align="center"><i class="fa fa-suitcase fa-lg"></i></td>
                               
 <td align="center">[<i class="far fa-copy fa-lg"></i>](#speaker-reflections)</td>
                         
-<td align="center">[<i class="fas fa-user-graduate fa-lg">](#study-halls)</i></td>
+<td align="center"><i class="fas fa-user-graduate fa-lg" style="opacity:0.3"></i></td>
                         
 <td align="center"><i class="fa fa-check-square fa-lg" style="opacity: 0.3;"></i></td>
                     
 </tr>  
 
 <tr>
-<td align="left">(9) October 20</td>
+<td align="left">(9) Oct 20/21</td>
 <td align="center">warm-up activity and guest speaker</td>
             
 <td align="center"><i class="fas fa-users fa-lg"></i></td>
                           
 <td align="center">[<i class="far fa-copy fa-lg"></i>](#field-trip-journals)</td>
                     
-<td align="center">[<i class="fas fa-user-graduate fa-lg">](#study-halls)</i></td>
+<td align="center"><i class="fas fa-user-graduate fa-lg" style="opacity:0.3"></i></td>
                     
 <td align="center"><i class="fa fa-check-square fa-lg"></i></td>
                 
 </tr>
         
 <tr>
-<td align="left">(10) October 27</td>
+<td align="left">(10) Oct 27/28</td>
 <td align="center">our fourth field trips ([student leader eval](#student-leader-evaluations) due)</td>
                             
 <td align="center"><i class="fa fa-suitcase fa-lg"></i></td>
                                       
 <td align="center">[<i class="far fa-copy fa-lg"></i>](#speaker-reflections)</td>
                                 
-<td align="center">[<i class="fas fa-user-graduate fa-lg">](#study-halls)</i></td>
+<td align="center"><i class="fas fa-user-graduate fa-lg" style="opacity:0.3"></i></td>
                                 
 <td align="center"><i class="fa fa-check-square fa-lg" style="opacity: 0.3;"></i></td>
                             
 </tr>
                           
 <tr>
-<td align="left">(11) November 3</td>
+<td align="left">(11) Nov 3/4</td>
 <td align="center">warm-up activity and guest speaker</td>
                 
 <td align="center"><i class="fas fa-users fa-lg"></i></td>
                               
 <td align="center">[<i class="far fa-copy fa-lg"></i>](#field-trip-journals)</td>
                         
-<td align="center">[<i class="fas fa-user-graduate fa-lg">](#study-halls)</i></td>
+<td align="center"><i class="fas fa-user-graduate fa-lg" style="opacity:0.3"></i></td>
                         
 <td align="center"><i class="fa fa-check-square fa-lg"></i></td>
                     
 </tr>
 
 <tr>
-<td align="left">(12) November 10</td>
+<td align="left">(12) Nov 10/11</td>
 <td align="center">our fifth field trips</td>
                                     
 <td align="center"><i class="fa fa-suitcase fa-lg"></i></td>
                                               
 <td align="center">[<i class="far fa-copy fa-lg"></i>](#speaker-reflections)</td>
                                         
-<td align="center">[<i class="fas fa-user-graduate fa-lg">](#study-halls)</i></td>
+<td align="center"><i class="fas fa-user-graduate fa-lg" style="opacity:0.3"></i></td>
                                         
 <td align="center"><i class="fa fa-check-square fa-lg" style="opacity: 0.3;"></i></td>
                                     
 </tr>
 
 <tr>
-<td align="left">(13) November 17</td>
+<td align="left">(13) Nov 17/18</td>
 <td align="center">warm-up activity and guest speaker</td>
                     
 <td align="center"><i class="fas fa-users fa-lg"></i></td>
                                   
 <td align="center">[<i class="far fa-copy fa-lg"></i>](#field-trip-journals)</td>
                             
-<td align="center">[<i class="fas fa-user-graduate fa-lg">](#study-halls)</i></td>
+<td align="center"><i class="fas fa-user-graduate fa-lg" style="opacity:0.3"></i></td>
                             
 <td align="center"><i class="fa fa-check-square fa-lg"></i></td>
                         
 </tr>
           
 <tr>
-<td align="left">(14) November 24</td>
+<td align="left">(14) Nov 24/25</td>
 <td align="center">holiday</td>
                         
 <td align="center"><i class="fas fa-drumstick-bite fa-lg" style="opacity:0.3"></i></td>
@@ -231,14 +231,14 @@ Click on the assignment or study hall links to see what's happening that week. (
 </tr>
 
 <tr>
-<td align="left">(15) December 1</td>
+<td align="left">(15) Dec 1/2</td>
 <td align="center">wrap-up and games ([student leader eval](#student-leader-evaluations) due)</td>
                         
 <td align="center"><i class="fas fa-users fa-lg"></i></td>
                                       
 <td align="center">[<i class="far fa-copy fa-lg"></i>](#speaker-reflections)</td>
                                 
-<td align="center">[<i class="fas fa-user-graduate fa-lg">](#study-halls)</i></td>
+<td align="center"><i class="fas fa-user-graduate fa-lg" style="opacity:0.3"></i></td>
                                 
 <td align="center"><i class="fa fa-check-square fa-lg"></i></td>
                             
