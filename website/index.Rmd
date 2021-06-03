@@ -2,7 +2,7 @@
 knit: "bookdown::render_book"
 title: "BIOS 196 Biology Colloquium"
 author: ""
-date: "Fall 2021: Meets Wednesday or Thursday from 2:00p-3:50p in SESXXXX"
+date: "Fall 2021<br> Meets Wednesday or Thursday<br>2:00p-3:50p in SESXXXX"
 description: "Website for all course materials related to Biology Colloquium, Fall 2021"
 url: 'https\://ledelaney.org/teaching/bcq'
 github-repo: "ledelaney/bcq"
@@ -98,17 +98,16 @@ Lucy has been studying biology for 15 years, so she is very ancient but tries ha
 **Dr. Karin Nelson** [<i class="far fa-envelope"></i> Email](mailto:knelsonn@uic.edu) \ \ [<i class="fas fa-laptop"></i> Website](https://bios.uic.edu/profiles/nelson-karin/)   
 Karin bio here.
 
+<div style="clear:both">
+</div>
 
-<img src="https://bios.uic.edu/wp-content/uploads/sites/286/2018/06/robie-profile-157x180.jpg" alt="" style="border-radius:90%; float:left; padding:1.5rem;">
+<img src="https://bios.uic.edu/wp-content/uploads/sites/286/2018/06/robie-profile-157x180.jpg" alt="" style="border-radius:90%; float:left; overflow:auto; padding:1.5rem;">
 **Dr. Robie Mason-Gamer** [<i class="far fa-envelope"></i> Email](mailto:robie@uic.edu) \ \ [<i class="fas fa-laptop"></i> Website](https://bios.uic.edu/profiles/mason-gamer-roberta-j/)  
 Robie bio here.
-\\
-\\
-\\
+
+<div style="clear:both">
+</div>
 
 <img src="https://bios.uic.edu/wp-content/uploads/sites/286/2018/06/mmuller-profile-157x180.jpg" alt="" style="border-radius:90%; float:left; padding:1.5rem;">
 **Prof. Mike Muller** [<i class="far fa-envelope"></i> Email](mailto:mmuller@uic.edu) \ \ [<i class="fas fa-laptop"></i> Website](https://bios.uic.edu/profiles/muller-michael/)  
 Mike bio here.
-\\
-\\
-\\

@@ -252,7 +252,7 @@ Click on the assignment or study hall links to see what's happening that week. (
                                           
 <td align="center">[<i class="far fa-copy fa-lg"></i>](#final-reflection-paper)</td>
 
-<td align="center">[<i class="fas fa-user-graduate fa-lg">](#study-halls)</i></td>
+<td align="center"><i class="fas fa-user-graduate fa-lg" style="opacity:0.3"></i></td>
                                     
 <td align="center"><i class="fas fa-book-dead fa-lg" style="opacity:0.3"></i></td>                         
 
