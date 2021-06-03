@@ -1,5 +1,7 @@
 # Study Halls
 
+![](images/study-hall.png){width="70%"}
+
 Instead of traditional "drop-in" hours, course coordinator Lucy will hold informal "study hall" sessions on a variety of topics. To get a sense of what everyone would find useful, we will wait to finalize this list until after the first week of classes. Possible topics include things like:
 
 + Creating and honing resumes or CVs

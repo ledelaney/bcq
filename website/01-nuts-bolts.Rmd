@@ -1,6 +1,6 @@
 # Nuts and Bolts 
 
-<img src="images/nuts-bolts.png">
+![](images/nuts-bolts.png){width="90%"}
 
 Here you can find important course documents and a list of tasks and activities for each week. Reach out to your student leader or course coordinator if you have specific questions!
 

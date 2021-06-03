@@ -1,5 +1,8 @@
 # Speakers
 
-<img src="images/speakers.png">
+![](images/speakers.png){width="90%"}
 
 Every other week, we will have guest speakers. Look here for speaker biographies and other materials as we set the lineup.
+
+
+**November 17 and 18**: Dr. Rebecca Kreston (Internal and emergency medicine)

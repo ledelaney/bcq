@@ -1,5 +1,8 @@
 # Extras
 
+![](images/extras.png){width="90%"}
+
+
 ## Using Box
 
 In this class, we will be using Box for assignment submission. Every UIC student is given a Box account with unlimited storage: you just need to set yours up if you haven't already! Setting things up is annoying, but we truly believe that Box will be a very valuable tool throughout your time at UIC. You can do it!

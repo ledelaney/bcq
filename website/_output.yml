@@ -10,12 +10,12 @@ bookdown::gitbook:
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">powered by <i class="fab fa-r-project"></i> and bookdown</a></li>
     view: https://github.com/ledelaney/bcq/blob/master/website/%s
-    edit: https://github.com/ledelaney/bcq/blob/master/website/%s
+    edit: null
     search: yes
     sharing:
       facebook: no
-      whatsapp: yes
-      github: yes
+      whatsapp: no
+      github: no
 
 
 
