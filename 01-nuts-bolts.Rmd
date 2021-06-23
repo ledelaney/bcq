@@ -281,12 +281,12 @@ Anyway. The bulk of your grade will come from your weekly assignments. The rest 
   
   <tr>
   <td>[field trip journals](#field-trip-journals)</td>
-  <td>15 points x 4 = 60 points</td>
+  <td>20 points x 4 = 80 points</td>
   </tr>
   
   <tr>
   <td>[speaker reflections](#speaker-reflections)</td>
-  <td>15 points x 6 = 90 points</td>
+  <td>20 points x 6 = 120 points</td>
   </tr>
   
   <tr>
@@ -306,7 +306,7 @@ Anyway. The bulk of your grade will come from your weekly assignments. The rest 
   
   <tr>
   <td></td>
-  <td>**300 points**</td>
+  <td>**350 points**</td>
   </tr>
   
 </table>
@@ -321,27 +321,27 @@ Find below the grade cutoffs for each letter grade. If you are curious about you
   
   <tr>
   <td>A</td>
-  <td>269 or higher (90% or higher)</td>
+  <td>313 or higher (90% or higher)</td>
   </tr>
 
   <tr>
   <td>B</td>
-  <td>239-268 (80-89%)</td>
+  <td>279-213 (80-89%)</td>
   </tr>
   
   <tr>
   <td>C</td>
-  <td>209-238 (70-79%)</td>
+  <td>244-278 (70-79%)</td>
   </tr>
 
   <tr>
   <td>D</td>
-  <td>179-208 (60-69%)</td>
+  <td>209-243 (60-69%)</td>
   </tr>
 
   <tr>
   <td>F</td>
-  <td>178 or lower (below 60%)</td>
+  <td>208 or lower (below 60%)</td>
   </tr>
 
 
