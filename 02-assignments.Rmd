@@ -185,17 +185,20 @@ After each speaker, you will have the opportunity to choose how you wish to refl
 
 + **Write a formal letter.** Practice writing a formal letter to a professional by writing a letter to the speaker about their talk. (You do not need to send this letter! It's just great practice.) This should be 1-2 pages.  
 [[download the grading rubric](rubrics/formal-letter.jpg)]  
-[[learn about components of formal letters](https://smartenglishnotes.com/2020/05/28/formal-letter-writing-parts-of-a-letter-important-points-format-and-samples-of-formal-letter-writing/)]
+[[learn about components of formal letters](https://smartenglishnotes.com/2020/05/28/formal-letter-writing-parts-of-a-letter-important-points-format-and-samples-of-formal-letter-writing/)]  
+[[download the letter template](templates/LASTNAME-speaker-letter.docx)]  
 + **Write a quiz.** If you were a teacher and you wanted to make sure your students were listening to a speaker: what would you ask them? Write 10 possible quiz questions and answers related to the talk you heard. Provide a mix of multiple choice, short answer, or other quesiton types (like matching). Your quiz answer key should be 1-2 pages.  
 [[download the grading rubric](rubrics/quiz-key.jpg)]  
+[[download the quiz template](templates/LASTNAME-speaker-quiz.docx)]  
 + **Write an executive summary.** Your friend was really looking forward to this speaker but had to work and couldn't make it. Write a 1-2 page executive summary hitting the key points the speaker made during their presentation.  
 [[download the grading rubric](rubrics/executive-summary.jpg)]  
 [[learn about components of an executive summary](https://asana.com/resources/executive-summary-examples)]  
+[[download the executive summary template](templates/LASTNAME-speaker-summary.docx)]  
 + **Write a short story.** Let your creative juices flow and write a 1-2 page short story related to the speaker and their presentation. What is it about? You tell me! Maybe you write a "day in the life" story; maybe it's a story about the speaker from the perspective of the organism they work on. It's up to you.  
 [[download the grading rubric](rubrics/story.jpg)]  
-[[learn about components of a short story](http://www.katiekazoo.com/pdf/KK_FiveEssentialElements.pdf)]
+[[learn about components of a short story](http://www.katiekazoo.com/pdf/KK_FiveEssentialElements.pdf)]  
+[[download the executive summary template](templates/LASTNAME-speaker-story.docx)]  
 
-[[download the template](templates/LASTNAME-speaker.docx)]  
 [[submit to student leader](#submitting-assignments)]
 
 ### Student leader evaluations
