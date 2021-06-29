@@ -96,7 +96,7 @@ Click the <i class="fas fa-link"></i> symbol for more information on completing 
   </tr>
   
   <tr>
-  <td>5: Due 11:59,  September 22/23</td>
+  <td>5: Due 11:59,  September 21/22</td>
   <td>field trip journal</td>
   <td>[<i class="fas fa-link"></i>](#field-trip-journals) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
   </tr>
