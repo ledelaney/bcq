@@ -11,5 +11,9 @@ In this class, we will be using Box for assignment submission. Every UIC student
 
 ### Setting up your Box account
 
+[Head to this website](https://help.uillinois.edu/TDClient/37/uic/KB/ArticleDet?ID=638) and follow the instructions to activate your UIC Box account.
+
 ### Getting to know Box
 
+The video below has tons of information about using and navigating Box.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bu3Vo41vvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
