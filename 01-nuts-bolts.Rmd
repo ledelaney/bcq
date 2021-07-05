@@ -40,7 +40,7 @@ Click on the assignment or study hall links to see what's happening that week. (
 
 <td align="center"><i class="fas fa-users fa-lg"></i></td>
       
-<td align="center">[<i class="far fa-copy fa-lg"></i>](welcomesurbey.com)</td>
+<td align="center">[<i class="far fa-copy fa-lg"></i>](https://uic.ca1.qualtrics.com/jfe/form/SV_3DHRRujJ9hIYmG2)</td>
 
 <td align="center">[<i class="fas fa-user-graduate fa-lg">](#study-halls)</i></td>
 
@@ -54,7 +54,7 @@ Click on the assignment or study hall links to see what's happening that week. (
 
 <td align="center"><i class="fas fa-users fa-lg"></i></td>
       
-<td align="center">[<i class="far fa-copy fa-lg"></i>](welcomesurbey.com)</td>
+<td align="center">[<i class="far fa-copy fa-lg"></i>](https://uic.ca1.qualtrics.com/jfe/form/SV_3DHRRujJ9hIYmG2)</td>
 
 <td align="center"><i class="fas fa-user-graduate fa-lg" style="opacity:0.3"></i></td>
 
@@ -64,7 +64,7 @@ Click on the assignment or study hall links to see what's happening that week. (
 
 <tr>
 <td align="left">(3) Sep 8/9</td>
-<td align="center">what's it like to do forensic biology?</td>
+<td align="center">Dr. Andrew Hipp from Morton Arboretum</td>
 
 <td align="center"><i class="fas fa-users fa-lg"></i></td>
           
@@ -204,7 +204,7 @@ Click on the assignment or study hall links to see what's happening that week. (
 
 <tr>
 <td align="left">(13) Nov 17/18</td>
-<td align="center">warm-up activity and guest speaker</td>
+<td align="center">Dr. Rebecca Kreston, MD</td>
                     
 <td align="center"><i class="fas fa-users fa-lg"></i></td>
                                   

@@ -74,13 +74,13 @@ Click the <i class="fas fa-link"></i> symbol for more information on completing 
   <tr>
   <td>1: Due 11:59, August 30/September 1</td>
   <td>take the welcome survey</td>
-  <td>[<i class="fas fa-link"></i>]()</td>
+  <td>[<i class="fas fa-link"></i>](https://uic.ca1.qualtrics.com/jfe/form/SV_3DHRRujJ9hIYmG2)</td>
   </tr>
   
   <tr>
   <td>2: Due 11:59,  August 30/September 1</td>
   <td>if you haven't yet, take the welcome survey</td>
-  <td>[<i class="fas fa-link"></i>]()</td>
+  <td>[<i class="fas fa-link"></i>](https://uic.ca1.qualtrics.com/jfe/form/SV_3DHRRujJ9hIYmG2)</td>
   </tr>
   
   <tr>
