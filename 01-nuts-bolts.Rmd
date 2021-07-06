@@ -93,7 +93,7 @@ Click on the assignment or study hall links to see what's happening that week. (
 
 <tr>
 <td align="left">(5) Sep 22/23</td>
-<td align="center">warm-up activity and guest speaker</td>
+<td align="center">Dr. Ankur Saxena from UIC Biological Sciences Department</td>
 
 <td align="center"><i class="fas fa-users fa-lg"></i></td>
               
@@ -204,7 +204,7 @@ Click on the assignment or study hall links to see what's happening that week. (
 
 <tr>
 <td align="left">(13) Nov 17/18</td>
-<td align="center">Dr. Rebecca Kreston, MD</td>
+<td align="center">Dr. Rebecca Kreston, resident at UIC IM/EM Dual Training Program</td>
                     
 <td align="center"><i class="fas fa-users fa-lg"></i></td>
                                   
