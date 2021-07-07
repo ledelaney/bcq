@@ -120,7 +120,7 @@ Click on the assignment or study hall links to see what's happening that week. (
 
 <tr>
 <td align="left">(7) Oct 6/7</td>
-<td align="center">warm-up activity and guest speaker</td>
+<td align="center">Benji Roberts, PhD candidate/Dr. Emily Minor from the UIC Biological Sciences Department</td>
     
 <td align="center"><i class="fas fa-users fa-lg"></i></td>
                   
@@ -148,7 +148,7 @@ Click on the assignment or study hall links to see what's happening that week. (
 
 <tr>
 <td align="left">(9) Oct 20/21</td>
-<td align="center">warm-up activity and guest speaker</td>
+<td align="center">Dr. Lauren Allegretti from the UIC College of Dentistry</td>
             
 <td align="center"><i class="fas fa-users fa-lg"></i></td>
                           
@@ -176,7 +176,7 @@ Click on the assignment or study hall links to see what's happening that week. (
                           
 <tr>
 <td align="left">(11) Nov 3/4</td>
-<td align="center">warm-up activity and guest speaker</td>
+<td align="center">Lucy Delaney, Course Coordinator and former Forensic Molecular Biologist</td>
                 
 <td align="center"><i class="fas fa-users fa-lg"></i></td>
                               
