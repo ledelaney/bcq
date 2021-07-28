@@ -109,7 +109,7 @@ Click the <i class="fas fa-link"></i> symbol for more information on completing 
   
   <tr>
   <td>7: Due 11:59,  October 12/13</td>
-  <td>field trip journal</td>
+  <td>speaker reflection</td>
   <td>[<i class="fas fa-link"></i>](#speaker-reflections) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
   </tr>
   
