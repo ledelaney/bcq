@@ -6,7 +6,7 @@ Here you can find important course documents and a list of tasks and activities 
 
 ## Syllabus
  
-[<i class="far fa-file-code"></i> View Web](syllabus/html/syllabus.html) \ \ [<i class="far fa-file-pdf"></i> Downlod PDF](syllabus/texed/syllabus.pdf)
+[<i class="far fa-file-code"></i> Click here to view the syllabus!](syllabus/html/syllabus.html)
 
 Yes, the syllabus is full of a lot of boring information and rules, but we want to make sure you have everything you need to get the most out of BCQ.
 
@@ -106,9 +106,9 @@ Click on the assignment or study hall links to see what's happening that week. (
     
 <tr>
 <td align="left">(6) Sep 29/30</td>
-<td align="center">our second field trips</td>
+<td align="center">researchers from Biomedical Research Awareness Day</td>
             
-<td align="center"><i class="fa fa-suitcase fa-lg"></i></td>
+<td align="center"><i class="fas fa-users fa-lg"></i></td>
                       
 <td align="center">[<i class="far fa-copy fa-lg"></i>](#speaker-reflections)</td>
                 
@@ -124,7 +124,7 @@ Click on the assignment or study hall links to see what's happening that week. (
     
 <td align="center"><i class="fas fa-users fa-lg"></i></td>
                   
-<td align="center">[<i class="far fa-copy fa-lg"></i>](#field-trip-journals)</td>
+<td align="center">[<i class="far fa-copy fa-lg"></i>](#speaker-reflections)</td>
             
 <td align="center"><i class="fas fa-user-graduate fa-lg" style="opacity:0.3"></i></td>
             
@@ -134,7 +134,7 @@ Click on the assignment or study hall links to see what's happening that week. (
 
 <tr>
 <td align="left">(8) Oct 13/14</td>
-<td align="center">our third field trips</td>
+<td align="center">our second field trips</td>
                     
 <td align="center"><i class="fa fa-suitcase fa-lg"></i></td>
                               
@@ -162,7 +162,7 @@ Click on the assignment or study hall links to see what's happening that week. (
         
 <tr>
 <td align="left">(10) Oct 27/28</td>
-<td align="center">our fourth field trips ([student leader eval](#student-leader-evaluations) due)</td>
+<td align="center">our third field trips ([student leader eval](#student-leader-evaluations) due)</td>
                             
 <td align="center"><i class="fa fa-suitcase fa-lg"></i></td>
                                       
@@ -190,7 +190,7 @@ Click on the assignment or study hall links to see what's happening that week. (
 
 <tr>
 <td align="left">(12) Nov 10/11</td>
-<td align="center">our fifth field trips</td>
+<td align="center">our fourth field trips</td>
                                     
 <td align="center"><i class="fa fa-suitcase fa-lg"></i></td>
                                               
@@ -286,7 +286,7 @@ Anyway. The bulk of your grade will come from your weekly assignments. The rest 
   
   <tr>
   <td>[speaker reflections](#speaker-reflections)</td>
-  <td>20 points x 6 = 120 points</td>
+  <td>20 points x 7 = 140 points</td>
   </tr>
   
   <tr>
@@ -296,7 +296,7 @@ Anyway. The bulk of your grade will come from your weekly assignments. The rest 
   
   <tr>
   <td>[student leader evaluations](#student-leader-evaluations)</td>
-  <td>20 points x 2 = 40 points</td>
+  <td>10 points x 2 = 20 points</td>
   </tr>
   
   <tr>

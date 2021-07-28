@@ -110,7 +110,7 @@ Click the <i class="fas fa-link"></i> symbol for more information on completing 
   <tr>
   <td>7: Due 11:59,  October 12/13</td>
   <td>field trip journal</td>
-  <td>[<i class="fas fa-link"></i>](#field-trip-journals) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
+  <td>[<i class="fas fa-link"></i>](#speaker-reflections) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
   </tr>
   
   <tr>
@@ -207,6 +207,7 @@ You will complete two evaluations of your student leader during the semester. De
 
 [[download the template](templates/LASTNAME-evaluation.docx)]  
 [[download the grading rubric](rubrics/sl-evals.jpg)]  
+
 [<i class="far fa-envelope"></i> **Submit to Lucy**](mailto:boxemail@box.com)\ \ `boxemail@box.com`
 
 ### Final reflection paper
