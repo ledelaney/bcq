@@ -79,7 +79,7 @@ Click on the assignment or study hall links to see what's happening that week. (
 
 <tr>
 <td align="left">(4) Sep 15/16</td>
-<td align="center">our very first field trips</td>
+<td align="center">group library field trip</td>
     
 <td align="center"><i class="fa fa-suitcase fa-lg"></i></td>
               
