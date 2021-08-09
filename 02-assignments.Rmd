@@ -33,28 +33,28 @@ Email your assignment to your student leader's Box folder.
   </tr>
   
   <tr>
-  <td>[<i class="far fa-envelope"></i> Submit to Zahraa Abbas](mailto:boxemail@box.com) \ \ `boxemail@box.com`</td>
-  <td>[<i class="far fa-envelope"></i> Submit to Hadeel Abdallah](mailto:boxemail@box.com)\ \ `boxemail@box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to Zahraa](mailto:boxemail@box.com) \ \ `boxemail@box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to Hadeel](mailto:boxemail@box.com)\ \ `boxemail@box.com`</td>
   </tr>
   
   <tr>
-  <td>[<i class="far fa-envelope"></i> Submit to Leo Calderon](mailto:boxemail@box.com) \ \ `boxemail@box.com`</td>
-  <td>[<i class="far fa-envelope"></i> Submit to Sania Ali](mailto:boxemail@box.com)\ \ `boxemail@box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to Leo](mailto:boxemail@box.com) \ \ `boxemail@box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to Sania](mailto:boxemail@box.com)\ \ `boxemail@box.com`</td>
   </tr>
   
   <tr>
-  <td>[<i class="far fa-envelope"></i> Submit to Mohammed Basem Jalal](mailto:boxemail@box.com) \ \ `boxemail@box.com`</td>
-  <td>[<i class="far fa-envelope"></i> Submit to Janet Corona](mailto:boxemail@box.com)\ \ `boxemail@box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to Mohammed](mailto:boxemail@box.com) \ \ `boxemail@box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to Janet](mailto:boxemail@box.com)\ \ `boxemail@box.com`</td>
   </tr>
   
   <tr>
-  <td>[<i class="far fa-envelope"></i> Submit to Natalie Para](mailto:boxemail@box.com) \ \ `boxemail@box.com`</td>
-  <td>[<i class="far fa-envelope"></i> Submit to Alyssa Redini Ramos](mailto:boxemail@box.com)\ \ `boxemail@box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to Natalie](mailto:boxemail@box.com) \ \ `boxemail@box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to Alyssa](mailto:boxemail@box.com)\ \ `boxemail@box.com`</td>
   </tr>
   
   <tr>
-  <td>[<i class="far fa-envelope"></i> Submit to Yarah Qaud](mailto:boxemail@box.com) \ \ `boxemail@box.com`</td>
-  <td>[<i class="far fa-envelope"></i> Submit to Godwin Sarpey](mailto:boxemail@box.com)\ \ `boxemail@box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to Yarah](mailto:boxemail@box.com) \ \ `boxemail@box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to Godwin](mailto:boxemail@box.com)\ \ `boxemail@box.com`</td>
   </tr>
 
   <tr>
