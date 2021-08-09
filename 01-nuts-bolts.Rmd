@@ -6,7 +6,7 @@ Here you can find important course documents and a list of tasks and activities 
 
 ## Syllabus
  
-[<i class="far fa-file-code"></i> Click here to view the syllabus!](syllabus/html/syllabus.html)
+[<i class="far fa-file-code"></i> Click here to view the syllabus!](syllabus/196/syllabus.html)
 
 Yes, the syllabus is full of a lot of boring information and rules, but we want to make sure you have everything you need to get the most out of BCQ.
 
