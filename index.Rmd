@@ -2,7 +2,7 @@
 knit: "bookdown::render_book"
 title: "BIOS 196 Biology Colloquium"
 author: ""
-date: "Fall 2021<br> Meets Wednesday or Thursday<br>2:00p-3:50p in SES 4289"
+date: "Fall 2021<br> Meets Wednesday or Thursday<br>2:00p-3:50p in SEL 4289"
 description: "Website for all course materials related to Biology Colloquium, Fall 2021"
 url: 'https\://ledelaney.org/teaching/bcq'
 github-repo: "ledelaney/bcq"
