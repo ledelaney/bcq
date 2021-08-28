@@ -82,11 +82,72 @@ Our team includes student leaders, a course coordinator, and faculty advisors. D
 
 ### Meet your student leaders
 
+**Wednesday Student Leaders**  
+
+<img src="images/sls/abbas.png" width="40%" alt="" style="border-radius:100%; float:left; padding:1.5rem;">
+**Zahraa** \ \ [<i class="far fa-envelope"></i> Email](mailto:zabbas9@uic.edu)  
 _Coming soon!_
 
-**Wednesday Student Leaders**
+<div style="clear:both">
+</div>
+
+<img src="images/sls/calderon.jpg" width="40%" alt="" style="border-radius:100%; float:left; padding:1.5rem;">
+**Leonardo (Leo)** \ \ [<i class="far fa-envelope"></i> Email](mailto:lcalde26@uic.edu)  
+Leonardo is from the southwest side of Chicago. He is a second-year student pursuing a bachelor's degree in Biological Sciences with a minor in Kinesiology. He is currently on the pre-dental track. Likes: working out, nutrition, video games and anime. Dislikes: sleeping late/waking up early, unproductive days and stress. Aspirations: work in under-served communities and provide dental care to those without dental coverage, representation of Latinx into STEM and act as a role model to those in low-income areas. 
+
+<div style="clear:both">
+</div>
+
+<img src="images/sls/jalal.jpeg" width="40%" alt="" style="border-radius:100%; float:left; padding:1.5rem;">
+**Mohammed (Mo)** \ \ [<i class="far fa-envelope"></i> Email](mailto:mjalal4@uic.edu)  
+Hello everyone, my name is Mohammed Jalal. I’m a senior majoring in Psychology on a pre-dental track. I got into dentistry because I want to shape the future of oral health care and raise awareness of oral hygiene. Likes: traveling, basketball, football, working out, cars, aviation and trying out new food. Dislikes: snow, winter, fall, Mondays, Sundays and most importantly protein shakes. Aspirations: build a community where people can come and feel welcomed.
+
+<div style="clear:both">
+</div>
+
+<img src="images/sls/pera.jpg" width="40%" alt="" style="border-radius:100%; float:left; padding:1.5rem;">
+**Natalie (Nat)** \ \ [<i class="far fa-envelope"></i> Email](mailto:npara2@uic.edu)  
+Hi everyone! My name is Natalie and I'm a junior here at UIC. I’m a Biology Major on the Pre-Med track. I am a proud Polish American that grew up with 8 other crazy, wild siblings. I'm a very bubbly person whose energy seems to never empty. (It's all the coffee and Celsius I drink).  Likes: FOOD! I mean who doesn't! I really enjoy spending quality time with family and friends. HUGE adventure kinda girl who's also very competitive. Dislikes: I really dislike olives, and messes. Aspirations: Becoming a doctor and traveling the world.
+
+<div style="clear:both">
+</div>
+
+<img src="images/sls/quad.jpeg" width="40%" alt="" style="border-radius:100%; float:left; padding:1.5rem;">
+**Yarah** \ \ [<i class="far fa-envelope"></i> Email](mailto:yquad2@uic.edu)  
+Hi friends! My name is Yarah and I'm a junior majoring in biology following a pre-dental track. When I'm not studying, you'll catch me baking, biking, roller blading, or dental assisting at the endodontic and periodontic specialty office I work at. I took BCQ online both semesters of my sophomore year and am now looking forward to being in person as a student leader. I hope to provide you all with the same positive experience I had as a student in BCQ! Likes: shopping, reading, watching the sunrise, flowers, tacos, sushi. Dislikes: soda, long lines, technology. Aspirations: attend dental school! 
+
+<div style="clear:both">
+</div>
 
 **Thursday Student Leaders**
+
+<img src="images/sls/ramos.png" width="40%" alt="" style="border-radius:100%; float:left; padding:1.5rem;">
+**Alyssa (Senior Student Leader) (she/her)** \ \ [<i class="far fa-envelope"></i> Email](mailto:aramos35@uic.edu)  
+Alyssa is a 4th year biology major with a concentration in Molecular, Cellular, and Organismal Biology and an educational goal of pre-dentistry. She is part of the L\@S Ganas Research Fellowship and conducts research under Dr. Christina Nicholas at the College of Dentistry. Likes: food (PIZZA!), coffee, boba, amphibians, spooky season. Dislikes: chemistry, heat waves, styrofoam, burnt coffee. Aspirations: to open her own dental practice & mentor future pre-dental students.
+
+<div style="clear:both">
+</div>
+
+<img src="images/sls/abdallah.png" width="40%" alt="" style="border-radius:100%; float:left; padding:1.5rem;">
+**Hadeel** \ \ [<i class="far fa-envelope"></i> Email](mailto:habda2@uic.edu)  
+Hello everyone! My name is Hadeel and I’m a junior at UIC currently studying biology. My dream in life is to become a Dentist and help those who are in need of oral care. My ethnic background is Palestinian and I am a first-generation American. Likes: turtles, traveling, cooking, memes. Dislikes: the effects of procrastinating (very normal), calculus, traffic, and stepping on a lego. Aspirations: To help each of you complete your goal and become the future that you want to be. I’m very excited to meet all of you this semester. See you soon :)
+
+<div style="clear:both">
+</div>
+
+<img src="images/sls/corona.png" width="40%" alt="" style="border-radius:100%; float:left; padding:1.5rem;">
+**Janet** \ \ [<i class="far fa-envelope"></i> Email](mailto:jcoron25@uic.edu)  
+Hey guys! I am Janet. I am a second year student at UIC. I am majoring in Neuroscience on the pre-med track. I decided to minor in Spanish, French and Math. I love to be able to communicate and connect with people from other parts of the world and for some reason I love numbers. In my future I hope to find myself in an OR looking at someone's brain or if not then in an office giving patients help. Likes:running, eating either tacos or wings, and sleeping. Dislikes: cheese, winter, and disorganization. Aspirations: Have a good back-in person semester :)
+
+<div style="clear:both">
+</div>
+
+<img src="images/sls/sarpey.jpg" width="40%" alt="" style="border-radius:100%; float:left; padding:1.5rem;">
+**Godwin** \ \ [<i class="far fa-envelope"></i> Email](mailto:gsarpe2@uic.edu)  
+Hello everyone! There was an elementary school boy who was always happy to hear the break bell so that he could go out and play soccer with friends. Now, turning in an assignment before 11:59 brings him so much joy. His name is Godwin. Likes: pineapple sundae on a hot summer day, Friday night movies (John Wick), studying in a quiet place and trying different meals. Dislikes: Reptiles (especially snakes), being unable to click skip on commercials and someone taking my leftover meal. Aspirations: Being able to share both college and life experiences as much as I can and make valuable lifelong friendships. 
+
+<div style="clear:both">
+</div>
 
 ### Meet your course coordinator
 
@@ -96,20 +157,17 @@ Lucy has been studying biology for 15 years, so she is very ancient but tries ha
 
 ### Meet your faculty advisors
 
-<img src="https://bios.uic.edu/wp-content/uploads/sites/286/2018/06/knelsonn-profile-157x180.jpg" alt="" style="border-radius:90%; float:left; padding:1.5rem;">
-**Dr. Karin Nelson** [<i class="far fa-envelope"></i> Email](mailto:knelsonn@uic.edu) \ \ [<i class="fas fa-laptop"></i> Website](https://bios.uic.edu/profiles/nelson-karin/)   
-Karin bio here.
-
-<div style="clear:both">
-</div>
-
-<img src="https://bios.uic.edu/wp-content/uploads/sites/286/2018/06/robie-profile-157x180.jpg" alt="" style="border-radius:90%; float:left; overflow:auto; padding:1.5rem;">
-**Dr. Robie Mason-Gamer** [<i class="far fa-envelope"></i> Email](mailto:robie@uic.edu) \ \ [<i class="fas fa-laptop"></i> Website](https://bios.uic.edu/profiles/mason-gamer-roberta-j/)  
-Robie bio here.
-
-<div style="clear:both">
-</div>
-
 <img src="https://bios.uic.edu/wp-content/uploads/sites/286/2018/06/mmuller-profile-157x180.jpg" alt="" style="border-radius:90%; float:left; padding:1.5rem;">
 **Prof. Mike Muller** [<i class="far fa-envelope"></i> Email](mailto:mmuller@uic.edu) \ \ [<i class="fas fa-laptop"></i> Website](https://bios.uic.edu/profiles/muller-michael/)  
 Hey everyone, my name is Mike and I'm a former Pizza Hut employee who decided that there was more to life than just pizza, so I went off to study plant paleontology.  I later decided that I would be better suited teaching than researching, so here I am.  Likes: flannel, Diet Coke, comic books, lucha libre, 70's music, and painting miniatures.  Dislikes: traffic, back pain, and seafood.  Aspirations: to get to know you all a little better and eat some more pizza.
+
+<div style="clear:both">
+</div>
+
+<img src="https://bios.uic.edu/wp-content/uploads/sites/286/2018/06/knelsonn-profile-157x180.jpg" alt="" style="border-radius:90%; float:left; padding:1.5rem;">
+**Dr. Karin Nelson** [<i class="far fa-envelope"></i> Email](mailto:knelsonn@uic.edu) \ \ [<i class="fas fa-laptop"></i> Website](https://bios.uic.edu/profiles/nelson-karin/)   
+
+<img src="https://bios.uic.edu/wp-content/uploads/sites/286/2018/06/robie-profile-157x180.jpg" alt="" style="border-radius:90%; float:left; overflow:auto; padding:1.5rem;">
+**Dr. Robie Mason-Gamer** [<i class="far fa-envelope"></i> Email](mailto:robie@uic.edu) \ \ [<i class="fas fa-laptop"></i> Website](https://bios.uic.edu/profiles/mason-gamer-roberta-j/)  
+
+
