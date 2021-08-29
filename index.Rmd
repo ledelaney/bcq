@@ -85,7 +85,7 @@ Our team includes student leaders, a course coordinator, and faculty advisors. D
 **Senior Student Leader (Thursday)**  
 
 <img src="images/sls/ramos.png" width="40%" alt="" style="border-radius:100%; float:left; padding:1.5rem;">
-**Alyssa (she/her)** \ \ [<i class="far fa-envelope"></i> Email](mailto:aramos35@uic.edu)  
+**Alyssa** (she/her) \ \ [<i class="far fa-envelope"></i> Email](mailto:aramos35@uic.edu)  
 Alyssa is a 4th year biology major with a concentration in Molecular, Cellular, and Organismal Biology and an educational goal of pre-dentistry. She is part of the L\@S Ganas Research Fellowship and conducts research under Dr. Christina Nicholas at the College of Dentistry. Likes: food (PIZZA!), coffee, boba, amphibians, spooky season. Dislikes: chemistry, heat waves, styrofoam, burnt coffee. Aspirations: to open her own dental practice & mentor future pre-dental students.
 
 <div style="clear:both">
@@ -94,8 +94,8 @@ Alyssa is a 4th year biology major with a concentration in Molecular, Cellular, 
 **Wednesday Student Leaders**  
 
 <img src="images/sls/abbas.png" width="40%" alt="" style="border-radius:100%; float:left; padding:1.5rem;">
-**Zahraa** \ \ [<i class="far fa-envelope"></i> Email](mailto:zabbas9@uic.edu)  
-_Coming soon!_
+**Zahraa** (she/her) \ \ [<i class="far fa-envelope"></i> Email](mailto:zabbas9@uic.edu)  
+Hello my name is Zahraa Abbas. I'm a last year student at UIC majoring in Biological sciences and Psychology and on the Pre-med track. My near future plan is to graduate college and go to med-school. I like helping people and I'm deeply interested in discovering and analyzing people's mindsets and their way of thinking. I'm a shopaholic and I use this habit as a coping mechanism! I also love spending quality time with friends and family. I love traveling and I'm very adventurous in life. I dislike the term impossible and my supreme goal is to be successful and effective as I always think that I was born to shine. 
 
 <div style="clear:both">
 </div>
