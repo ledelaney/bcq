@@ -33,33 +33,33 @@ Email your assignment to your student leader's Box folder.
   </tr>
   
   <tr>
-  <td>[<i class="far fa-envelope"></i> Submit to Zahraa](mailto:boxemail@box.com) \ \ `boxemail@box.com`</td>
-  <td>[<i class="far fa-envelope"></i> Submit to Hadeel](mailto:boxemail@box.com)\ \ `boxemail@box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to Zahraa](mailto:Abbas_A.61h3ri1wdg0mhzpm@u.box.com)   `Abbas_A.61h3ri1wdg0mhzpm@u.box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to Hadeel](mailto:Abdalla.v5yjsjcqcxt41km5@u.box.com)   `Abdalla.v5yjsjcqcxt41km5@u.box.com`</td>
   </tr>
   
   <tr>
-  <td>[<i class="far fa-envelope"></i> Submit to Leo](mailto:boxemail@box.com) \ \ `boxemail@box.com`</td>
-  <td>[<i class="far fa-envelope"></i> Submit to Sania](mailto:boxemail@box.com)\ \ `boxemail@box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to Leo](mailto:Caldero.ucmk82nuu9pqwo5x@u.box.com)   `Caldero.ucmk82nuu9pqwo5x@u.box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to Janet](mailto:Corona_.6hgevim9pb26e9ph@u.box.com)   `Corona_.6hgevim9pb26e9ph@u.box.com`</td>
   </tr>
   
   <tr>
-  <td>[<i class="far fa-envelope"></i> Submit to Mohammed](mailto:boxemail@box.com) \ \ `boxemail@box.com`</td>
-  <td>[<i class="far fa-envelope"></i> Submit to Janet](mailto:boxemail@box.com)\ \ `boxemail@box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to Mo](mailto:Jalal_A.41mpjkw4p31qx3ch@u.box.com)   `Jalal_A.41mpjkw4p31qx3ch@u.box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to Alyssa](mailto:RediniR.970no5gka4fvqnw7@u.box.com)   `RediniR.970no5gka4fvqnw7@u.box.com`</td>
   </tr>
   
   <tr>
-  <td>[<i class="far fa-envelope"></i> Submit to Natalie](mailto:boxemail@box.com) \ \ `boxemail@box.com`</td>
-  <td>[<i class="far fa-envelope"></i> Submit to Alyssa](mailto:boxemail@box.com)\ \ `boxemail@box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to Natalie](mailto:Para_As.c78hhnovunn5q962@u.box.com)   `Para_As.c78hhnovunn5q962@u.box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to Godwin](mailto:Sarpey_.nlt3a7r0i2y4qusi@u.box.com)   `Sarpey_.nlt3a7r0i2y4qusi@u.box.com`</td>
   </tr>
   
   <tr>
-  <td>[<i class="far fa-envelope"></i> Submit to Yarah](mailto:boxemail@box.com) \ \ `boxemail@box.com`</td>
-  <td>[<i class="far fa-envelope"></i> Submit to Godwin](mailto:boxemail@box.com)\ \ `boxemail@box.com`</td>
+  <td>[<i class="far fa-envelope"></i> Submit to Yarah](mailto:Quad_As.m8df6lwi7h8ulon6@u.box.com)   `Quad_As.m8df6lwi7h8ulon6@u.box.com`</td>
+  <td></td>
   </tr>
 
   <tr>
   <td>**for student leader evals and final papers** <i class="fas fa-arrow-right"></i></td>
-  <td>[<i class="far fa-envelope"></i> **Submit to Lucy**](mailto:boxemail@box.com)\ \ `boxemail@box.com`</td>
+  <td>[<i class="far fa-envelope"></i> **Submit to Lucy**](mailto:Assignm.bz82zyvorh0ntnvi@u.box.com)   `Assignm.bz82zyvorh0ntnvi@u.box.com`</td>
   </tr>
   
 </table>
