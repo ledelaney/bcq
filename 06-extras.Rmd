@@ -17,3 +17,7 @@ In this class, we will be using Box for assignment submission. Every UIC student
 
 The video below has tons of information about using and navigating Box.  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-Bu3Vo41vvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Building your UIC career 
+
+[Download Alyssa's presentation](https://uic.blackboard.com/bbcswebdav/xid-108997527_2) (_Note: you need to login to Blackboard to access this file!_)
