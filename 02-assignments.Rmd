@@ -107,47 +107,52 @@ Click the <i class="fas fa-link"></i> symbol for more information on completing 
   </tr>
   
   <tr>
-  <td>6: Due 11:59,  October 5/6</td>
+  <td>6: Due 11:59,  September 28/29</td>
   <td>speaker reflection</td>
   <td>[<i class="fas fa-link"></i>](#speaker-reflections) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
   </tr>
   
   <tr>
-  <td>7: Due 11:59,  October 12/13</td>
+  <td>7: Due 11:59,  October 5/6</td>
   <td>speaker reflection</td>
   <td>[<i class="fas fa-link"></i>](#speaker-reflections) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
   </tr>
   
   <tr>
-  <td>8: Due 11:59,  October 19/20</td>
+  <td>8: Due 11:59,  October 12/13</td>
   <td>speaker reflection</td>
   <td>[<i class="fas fa-link"></i>](#speaker-reflections) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
   </tr>
   
   <tr>
-  <td>9: Due 11:59,  October 26/27</td>
+  <td>9: Due 11:59,  October 19/20</td>
   <td>field trip journal and [student leader eval](#student-leader-evaluations)</td>
   <td>[<i class="fas fa-link"></i>](#field-trip-journals) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
   </tr>
   
   <tr>
-  <td>10: Due 11:59,  November 2/3</td>
+  <td>10: Due 11:59,  October 26/27</td>
   <td>speaker reflection</td>
   <td>[<i class="fas fa-link"></i>](#speaker-reflections) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
   </tr>
   
   <tr>
-  <td>11: Due 11:59,  November 9/10</td>
+  <td>11: Due 11:59,  November 2/3</td>
   <td>field trip journal</td>
   <td>[<i class="fas fa-link"></i>](#field-trip-journals) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
   </tr>
   
   <tr>
-  <td>12: Due 11:59,  November 16/17</td>
+  <td>12: Due 11:59,  November 9/10</td>
   <td>speaker reflection</td>
   <td>[<i class="fas fa-link"></i>](#speaker-reflections) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
   </tr>
   
+  <tr>
+  <td>11: Due 11:59,  November 16/17</td>
+  <td>field trip journal</td>
+  <td>[<i class="fas fa-link"></i>](#field-trip-journals) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
+  </tr>
   
   <tr>
   <td>13: HAVE FUN November 24-25</td>
