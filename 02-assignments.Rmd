@@ -149,25 +149,25 @@ Click the <i class="fas fa-link"></i> symbol for more information on completing 
   </tr>
   
   <tr>
-  <td>11: Due 11:59,  November 16/17</td>
+  <td>13: Due 11:59,  November 16/17</td>
   <td>field trip journal</td>
   <td>[<i class="fas fa-link"></i>](#field-trip-journals) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
   </tr>
   
   <tr>
-  <td>13: HAVE FUN November 24-25</td>
+  <td>14: HAVE FUN November 24-25</td>
   <td>hOliDaY</td>
   <td><i class="fas fa-link" style="opacity:0.3"></i></td>
   </tr>
   
   <tr>
-  <td>14: Due 11:59,  November 30/December 1</td>
+  <td>15: Due 11:59,  November 30/December 1</td>
   <td>speaker reflection and [student leader eval](#student-leader-evaluations)</td>
   <td>[<i class="fas fa-link"></i>](#speaker-reflections) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
   </tr>
   
   <tr>
-  <td>15: Due 11:59,  FiNaLs December 7/8</td>
+  <td>16: Due 11:59,  FiNaLs December 7/8</td>
   <td>final reflection paper</td>
   <td>[<i class="fas fa-link"></i>](#final-reflection-paper) \ [<i class="fas fa-file-download"></i>](#submitting-assignments)</td>
   </tr>
