@@ -148,7 +148,7 @@ Click on the assignment or study hall links to see what's happening that week. (
 
 <tr>
 <td align="left">(9) Oct 20/21</td>
-<td align="center">Dr. Lauren Allegretti from the UIC College of Dentistry</td>
+<td align="center">Dr. Lauren Allegretti from the UIC College of Dentistry ([student leader eval](#student-leader-evaluations) due)</td>
             
 <td align="center"><i class="fas fa-users fa-lg"></i></td>
                           
@@ -162,7 +162,7 @@ Click on the assignment or study hall links to see what's happening that week. (
         
 <tr>
 <td align="left">(10) Oct 27/28</td>
-<td align="center">our third field trips ([student leader eval](#student-leader-evaluations) due)</td>
+<td align="center">our third field trips</td>
                             
 <td align="center"><i class="fa fa-suitcase fa-lg"></i></td>
                                       
@@ -176,7 +176,7 @@ Click on the assignment or study hall links to see what's happening that week. (
                           
 <tr>
 <td align="left">(11) Nov 3/4</td>
-<td align="center">Lucy Delaney, Course Coordinator and former Forensic Molecular Biologist</td>
+<td align="center">Dr. Lucy Delaney, Course Coordinator and former Forensic Molecular Biologist</td>
                 
 <td align="center"><i class="fas fa-users fa-lg"></i></td>
                               
@@ -204,7 +204,7 @@ Click on the assignment or study hall links to see what's happening that week. (
 
 <tr>
 <td align="left">(13) Nov 17/18</td>
-<td align="center">Dr. Rebecca Kreston, resident at UIC IM/EM Dual Training Program</td>
+<td align="center">Dr. Meg Malone/Dr. Rebecca Kreston, resident at UIC IM/EM Dual Training Program</td>
                     
 <td align="center"><i class="fas fa-users fa-lg"></i></td>
                                   

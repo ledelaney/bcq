@@ -63,7 +63,7 @@ If you poke around on this website, you'll also find:
   </tr>
   
   <tr>
-  <td><i class='fas fa-user-graduate fa-lg'></i> \ [Study Halls](#study-halls)</td>
+  <td><i class='fas fa-user-graduate fa-lg'></i> \ [Drop-In Hours](#drop-in-hours)</td>
   <td>Informal drop-in hours on various topics</td>
   </tr>
   
